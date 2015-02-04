@@ -22,7 +22,7 @@
 	to the Capitol Words API, it will return to the user the number of times 
 	that phrase has been said over time during US congressional sessions.
 
-	- Software [library](#L) APIs specify how to use a software library, and
+	- Software [library](#l) APIs specify how to use a software library, and
 	how a software library will behave within a computer program. An example of
 	a software library API is the 
 	[Array API](http://www.ruby-doc.org/core-2.2.0/Array.html) in the Ruby
