@@ -33,3 +33,12 @@ active.
     Lean In at Brown is a chapter of LeanIn.org, committed to offering women the ongoing inspiration and support to      help them achieve their goal.
   * [Women in Science and Engineering] (http://www.brown.edu/academics/college/support/women-in-science-and-engineering/)<br/>
     WiSE helps create a community of and for women in the sciences at Brown University. Led by Brown science faculty,     WiSE encourages women to concentrate in the sciences and to pursue professions and graduate study in science,        math, and engineering.
+
+### New York
+
+##### Cornell University
+  * [Women in Computing at Cornell (WICC)](http://www.wicc.acm.org) 
+    WICC's goal is to bring together the women in computing at Cornell. We seek not only to encourage prospective      women and to expand their opportunities, but also to provide support to existing women in computing fields. We     focus on the the three main goals of Outreach, Community Building and Technical and Career Development.
+      * Email: [wicc@cornell.edu](mailto:wicc@cornell.edu)
+      * [Facebook Page](https://www.facebook.com/cornellwomenincomnputing)
+      * [Facebook Group for members and supporters](https://www.facebook.com/groups/wiccmembers/)
