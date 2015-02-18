@@ -12,14 +12,14 @@ active.
 ### Maryland
 
 ##### The University of Maryland, College Park
-  * [The Association for Women in Computing](http://www.cs.umd.edu/~awc/)
+  * [The Association for Women in Computing](http://www.cs.umd.edu/~awc/)  
     The Association for Women in Computing is composed of a group of 
     students who encourage women to enter and progress in the Computer 
     Science field.
       * Email: [awc.umcp@gmail.com](mailto:awc.umcp@gmail.com)
       * [@umdawc](https://twitter.com/umdawc)
 
-  * [Terrapin Hackers](http://www.terrapinhackers.com/)
+  * [Terrapin Hackers](http://www.terrapinhackers.com/)  
     Terrapin Hackers is about building interesting things, combining 
     excellence, playfulness, cleverness, and exploration.
       * Email: [team@terrapinhackers.com](mailto:team@terrapinhackers.com)
@@ -51,7 +51,7 @@ active.
       * [Facebook Group for members and supporters](https://www.facebook.com/groups/wiccmembers/)
 
 ##### New York University
-  * [Tech @ NYU](http://techatnyu.org)
+  * [Tech @ NYU](http://techatnyu.org)  
     We host tech, design, and entrepreneurship events for students 
     at NYU and surrounding schools. We welcome students of all 
     experience levels.
