@@ -1,6 +1,13 @@
-# Resources
+# Learning Resources
 
-### Learning Git
+### Algorithms
+* [Visualgo](http://visualgo.net/)  
+  Visual learning tool for a bunch of Algorithms and Data Structures.
+* [Sorting Algorithm Animations](http://www.sorting-algorithms.com/)  
+  Animated demos of Insertion, Selection, Bubble, Shell, Merge, Heap, Quick, and
+  Quick3 sorts, with an explanation of how they work.
+
+### Git
 * [Try Git](https://try.github.io/)  
   Never tried git? This interactive tutorial is for you!
 * [Github Git Cheatsheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
