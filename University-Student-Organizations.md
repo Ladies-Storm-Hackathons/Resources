@@ -9,6 +9,23 @@ active.
 
 ## USA
 
+### Maryland
+
+##### The University of Maryland, College Park
+  * [The Association for Women in Computing](http://www.cs.umd.edu/~awc/)
+    The Association for Women in Computing is composed of a group of 
+    students who encourage women to enter and progress in the Computer 
+    Science field.
+      * Email: [awc.umcp@gmail.com](mailto:awc.umcp@gmail.com)
+      * [@umdawc](https://twitter.com/umdawc)
+
+  * [Terrapin Hackers](http://www.terrapinhackers.com/)
+    Terrapin Hackers is about building interesting things, combining 
+    excellence, playfulness, cleverness, and exploration.
+      * Email: [team@terrapinhackers.com](mailto:team@terrapinhackers.com)
+      * [@TerrapinHackers](https://twitter.com/TerrapinHackers)
+      * [Facebook](https://www.facebook.com/terrapinhackers)
+
 ### Massachusetts
 
 ##### Northeastern University
@@ -19,6 +36,27 @@ active.
       * Email: [nuwit-officers@ccs.neu.edu](mailto:nuwit-officers@ccs.neu.edu)
       * [@cisters](http://www.twitter.com/cisters) New Handle Coming Soon.
       * [Facebook](https://www.facebook.com/groups/nucisters/)
+
+### New York
+
+##### Cornell University
+  * [Women in Computing at Cornell (WICC)](http://wicc.acm.org)  
+    WICC's goal is to bring together the women in computing at Cornell. We seek
+    not only to encourage prospective women and to expand their opportunities,
+    but also to provide support to existing women in computing fields. We focus
+    on the the three main goals of Outreach, Community Building and Technical
+    and Career Development.
+      * Email: [wicc@cornell.edu](mailto:wicc@cornell.edu)
+      * [Facebook Page](https://www.facebook.com/cornellwomenincomnputing)
+      * [Facebook Group for members and supporters](https://www.facebook.com/groups/wiccmembers/)
+
+##### New York University
+  * [Tech @ NYU](http://techatnyu.org)
+    We host tech, design, and entrepreneurship events for students 
+    at NYU and surrounding schools. We welcome students of all 
+    experience levels.
+      * [@TechatNYU](https://twitter.com/TechatNYU)
+
 
 ### Rhode Island
 
@@ -44,15 +82,3 @@ active.
     concentrate in the sciences and to pursue professions and graduate study in
     science, math, and engineering.
 
-### New York
-
-##### Cornell University
-  * [Women in Computing at Cornell (WICC)](http://wicc.acm.org)  
-    WICC's goal is to bring together the women in computing at Cornell. We seek
-    not only to encourage prospective women and to expand their opportunities,
-    but also to provide support to existing women in computing fields. We focus
-    on the the three main goals of Outreach, Community Building and Technical
-    and Career Development.
-      * Email: [wicc@cornell.edu](mailto:wicc@cornell.edu)
-      * [Facebook Page](https://www.facebook.com/cornellwomenincomnputing)
-      * [Facebook Group for members and supporters](https://www.facebook.com/groups/wiccmembers/)
