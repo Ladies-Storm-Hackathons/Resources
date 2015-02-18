@@ -16,6 +16,10 @@
 * [Git Tips From The Trenches](https://ochronus.com/git-tips-from-the-trenches/)  
   For those who want to elevate their version control game. This is a list of
   neat commands, configs, and neat tricks.
+* [Keeping a Github Fork Update](http://robots.thoughtbot.com/keeping-a-github-fork-updated)  
+  For those starting to contribute to Open Source, or those starting their first
+  Big Kid Software Engineering Project, where one has to git along with others
+  (not sorry for pun).
 * [Git Manual](http://git-scm.com/docs)  
   Precise and nitpicky, but this is basically an official manual, so that's par
   for the course.
