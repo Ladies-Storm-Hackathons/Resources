@@ -1,5 +1,9 @@
 # Learning Resources
 
+### Interactive Programming Tutorials
+* [NodeSchool](http://nodeschool.io/) Contains essential skills for working with
+  Node.js
+
 ### Algorithms
 * [Visualgo](http://visualgo.net/)  
   Visual learning tool for a bunch of Algorithms and Data Structures.
