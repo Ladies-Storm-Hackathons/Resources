@@ -37,6 +37,25 @@ active.
       * [@cisters](http://www.twitter.com/cisters) New Handle Coming Soon.
       * [Facebook](https://www.facebook.com/groups/nucisters/)
 
+### New Jersey
+
+##### Rutgers University
+  * [WCS](https://email.rutgers.edu/mailman/listinfo/ru_wcs)  
+    WCS is open to any students, male or female, at Rutgers interested in
+    computer science and supportive of women in this field. As a member of WCS,
+    you will be able to network with other computer science undergraduate
+    students as well as computer science graduate students and faculty during
+    our events throughout the year.
+    * [Mailing List](https://email.rutgers.edu/mailman/listinfo/ru_wcs)
+    * [Facebook](https://facebook.com/groups/RutgersWCS/)
+  * [Douglass-DIMACS Computing Corps](http://dimacs.rutgers.edu/DDCC/)  
+    The Douglass-DIMACS Computing Corps focuses on helping women succeed in
+    computing while providing them with the opportunity to give back to the
+    community and practice leadership. Throughout the year, students will work
+    with CS faculty and graduate students to design and carry out fun and
+    interactive group activities for middle school girls to excite them about
+    computing.
+
 ### New York
 
 ##### Cornell University
@@ -82,3 +101,15 @@ active.
     concentrate in the sciences and to pursue professions and graduate study in
     science, math, and engineering.
 
+### Texas
+
+##### Texas A&M University
+  * [Aggie Women in Computer Science](http://awics.cs.tamu.edu/)  
+    We are an organization for all women (students and faculty) in Computer
+    Science at Texas A&M University. AWICS is an ACM-W chapter. Our activities
+    include socializing, mentoring, and professional development. We have
+    regular study breaks and recreational events, administer a peer-mentoring
+    program for our members, and maintain an electronic mailing list and a web
+    page. We also have various other special events and programs throughout the
+    year.
+      * [Facebook](https://www.facebook.com/groups/TAMUawics/)
