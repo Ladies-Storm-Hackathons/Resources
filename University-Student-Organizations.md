@@ -5,7 +5,8 @@ at large.
 
 Please [fork](https://github.com/Ladies-Storm-Hackathons/Resources) and add any
 relevant student groups you are either personally involved in, or know to be
-active. 
+active. Or a pull request, or get the attention of the maintainer,
+[aliceyoung9](https://github.com/aliceyoung9).
 
 ## USA
 
