@@ -76,6 +76,15 @@ active.
     experience levels.
       * [@TechatNYU](https://twitter.com/TechatNYU)
 
+### North Carolina
+
+##### Duke University  
+  * [HackDuke](http://www.hackduke.org)  
+    An inclusive hackathon focused on projects promoting social good.
+      * Email: (hackers@hackduke.org)[mailto:hackers@hackduke.org]
+      * [Facebook](https://www.facebook.com/hackduke)
+      * [@hackduke](https://twitter.com/hackduke)
+  * [Wiring With Women](https://www.facebook.com/groups/744561652317777/)
 
 ### Rhode Island
 
