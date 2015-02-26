@@ -29,6 +29,10 @@
   Precise and nitpicky, but this is basically an official manual, so that's par
   for the course.
 
+### Python
+* [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)  
+  An opinionated and thorough guide for getting started in Python.
+
 # About This Repo
 Style Guidelines: I like keeping lines at 80 characters max. The frequent
 exception will be lines that have to contain long URL's.
