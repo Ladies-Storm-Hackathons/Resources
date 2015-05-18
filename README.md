@@ -18,6 +18,8 @@
   (PDF) Helpful for those who haven't quite memorized the more frequently-used
   git commands.
 * [Atlassian's Git Tutorials](https://www.atlassian.com/git/tutorials)
+* [first aid git](http://firstaidgit.io/#/)  
+  A searchable collection of the most frequently asked Git questions
 * [Git Tips From The Trenches](https://ochronus.com/git-tips-from-the-trenches/)  
   For those who want to elevate their version control game. This is a list of
   neat commands, configs, and neat tricks.
