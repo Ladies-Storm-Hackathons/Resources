@@ -35,6 +35,10 @@
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)  
   An opinionated and thorough guide for getting started in Python.
 
+### Engineering
+* [Latency Numbers Every Engineer Should Know](https://quizlet.com/91957128/latency-numbers-every-programmer-should-know-flash-cards/)  
+ Flash cards with useful estimates for reasoning about how long operations take.
+
 # About This Repo
 Style Guidelines: I like keeping lines at 80 characters max. The frequent
 exception will be lines that have to contain long URL's.
