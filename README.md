@@ -16,6 +16,13 @@
   Animated demos of Insertion, Selection, Bubble, Shell, Merge, Heap, Quick, and
   Quick3 sorts, with an explanation of how they work.
 
+##### Complexity, Big-O Notation
+* [Lecture Notes - Jonathan Shewchuk](https://www.cs.berkeley.edu/~jrs/61b/lec/20)  
+  Notes containing simple explanations of Big-O and asymtotic analysis. Warnings
+  and misconceptions section towards the bottom is pretty good too.
+* [Big O Lecture Notes - Jim Marshall](http://science.slc.edu/~jmarshall/courses/2002/spring/cs50/BigO/)
+  Tons of graphs for comparing running times.
+
 ### Git
 * [Try Git](https://try.github.io/)  
   Never tried git? This interactive tutorial is for you!
