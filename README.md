@@ -1,8 +1,13 @@
 # Learning Resources
 
 ### Interactive Programming Tutorials
-* [NodeSchool](http://nodeschool.io/) Contains essential skills for working with
-  Node.js
+* [NodeSchool](http://nodeschool.io/)  
+  Contains essential skills for working with Node.js
+
+### Command Line
+* [The Art of the Command Line by jlevy](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)  
+  A thorough guide with useful tips about command line. Great for beginners and
+  those wanting to become power-users.
 
 ### Algorithms
 * [Visualgo](http://visualgo.net/)  
