@@ -5,9 +5,14 @@
   Contains essential skills for working with Node.js
 
 ### Command Line
+* [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial) by Michael Hartl  
+  Well-written guide that assumes no previous knowledge, and explains jargon.
+  Also contains little exercises to demonstrate the concepts.
+  Highly recommend for beginners.
 * [The Art of the Command Line by jlevy](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)  
-  A thorough guide with useful tips about command line. Great for beginners and
-  those wanting to become power-users.
+  A thorough guide with useful tips about command line. Great for beginners, and
+  goes through more advanced tricks for those trying to become command-line
+  power-users.
 
 ### Algorithms
 * [Visualgo](http://visualgo.net/)  
