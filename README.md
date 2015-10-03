@@ -3,6 +3,9 @@
 ### Interactive Programming Tutorials
 * [NodeSchool](http://nodeschool.io/)  
   Contains essential skills for working with Node.js
+* [LearnRx](http://reactivex.io/learnrx/)  
+  Learn functional programming in JavaScript. This [video series](https://egghead.io/lessons/javascript-chaining-the-array-map-and-filter-methods) can help you 
+  if you're feeling stuck.
 
 ### Command Line
 * [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial) by Michael Hartl  
