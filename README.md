@@ -52,6 +52,12 @@
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)  
   An opinionated and thorough guide for getting started in Python.
 
+### JavaScript
+* [JS the Right Way](http://jstherightway.org/)  
+  A guide intended to introduce new developers to JavaScript.
+* [Eloquent JavaScript](http://eloquentjavascript.net/)  
+  Introduction to JavaScript and web development.
+
 ### Engineering
 * [Latency Numbers Every Engineer Should Know](https://quizlet.com/91957128/latency-numbers-every-programmer-should-know-flash-cards/)  
  Flash cards with useful estimates for reasoning about how long operations take.
