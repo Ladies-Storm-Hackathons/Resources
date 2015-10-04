@@ -3,6 +3,9 @@
 ### Interactive Programming Tutorials
 * [NodeSchool](http://nodeschool.io/)  
   Contains essential skills for working with Node.js
+* [LearnRx](http://reactivex.io/learnrx/)  
+  Learn functional programming in JavaScript. This [video series](https://egghead.io/lessons/javascript-chaining-the-array-map-and-filter-methods) can help you 
+  if you're feeling stuck.
 
 ### Command Line
 * [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial) by Michael Hartl  
@@ -51,6 +54,12 @@
 ### Python
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)  
   An opinionated and thorough guide for getting started in Python.
+
+### JavaScript
+* [JS the Right Way](http://jstherightway.org/)  
+  A guide intended to introduce new developers to JavaScript.
+* [Eloquent JavaScript](http://eloquentjavascript.net/)  
+  Introduction to JavaScript and web development.
 
 ### Engineering
 * [Latency Numbers Every Engineer Should Know](https://quizlet.com/91957128/latency-numbers-every-programmer-should-know-flash-cards/)  
