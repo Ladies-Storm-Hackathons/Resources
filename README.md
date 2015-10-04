@@ -16,6 +16,10 @@
   A thorough guide with useful tips about command line. Great for beginners, and
   goes through more advanced tricks for those trying to become command-line
   power-users.
+* [Bandit Wargame by OverTheWire](http://overthewire.org/wargames/bandit/)  
+  Although Bandit is meant to be an intro to security, it's great for diving
+  into more advanced command line concepts. Continue to other OverTheWire
+  wargames to learn about security.
 
 ### Algorithms
 * [Visualgo](http://visualgo.net/)  
@@ -23,6 +27,9 @@
 * [Sorting Algorithm Animations](http://www.sorting-algorithms.com/)  
   Animated demos of Insertion, Selection, Bubble, Shell, Merge, Heap, Quick, and
   Quick3 sorts, with an explanation of how they work.
+* [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html)  
+  For the less visual learners, an online book explaining algorithms and data
+  structures (uses Python).
 
 ##### Complexity, Big-O Notation
 * [Lecture Notes - Jonathan Shewchuk](https://www.cs.berkeley.edu/~jrs/61b/lec/20)  
@@ -57,11 +64,33 @@
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)  
   A thorough guide to Python, great for people who have never programmed before.
 
+### Ruby
+* [Try Ruby by Code School](http://tryruby.org/levels/1/challenges/0)  
+  Learn the basics of Ruby in the browser.
+* [Learn to Program by Chris Pine](https://pine.fm/LearnToProgram/)  
+  This online book is a thorough introduction to programming and Ruby.
+* [Ruby Monk](https://rubymonk.com)  
+  Interactive Ruby tutorials for various levels.
+
+### Go
+* [Go Training by William Kennedy](https://github.com/gobridge/gotraining)  
+  While intended for in-person learning, the course material includes notes,
+  examples, exercises, and links to other resources.
+* [Resources for New Go Programmers](http://dave.cheney.net/resources-for-new-go-programmers)  
+  Can never have too many resource lists.
+
 ### JavaScript
 * [JS the Right Way](http://jstherightway.org/)  
   A guide intended to introduce new developers to JavaScript.
 * [Eloquent JavaScript](http://eloquentjavascript.net/)  
   Introduction to JavaScript and web development.
+
+### HTML/CSS
+* [Dash by General Assembly](https://dash.generalassemb.ly)  
+  Get introduced to HTML and CSS through a series of interactive tutorials.
+* [Learn to Code HTML & CSS by Shay Howe](http://learn.shayhowe.com/html-css/)  
+  This guide offers a more in-depth introduction to HTML and CSS, including how
+  to follow best practices.
 
 ### Engineering
 * [Latency Numbers Every Engineer Should Know](https://quizlet.com/91957128/latency-numbers-every-programmer-should-know-flash-cards/)  
