@@ -54,6 +54,8 @@
 ### Python
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)  
   An opinionated and thorough guide for getting started in Python.
+* [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)  
+  A thorough guide to Python, great for people who have never programmed before.
 
 ### JavaScript
 * [JS the Right Way](http://jstherightway.org/)  
