@@ -92,6 +92,11 @@
   This guide offers a more in-depth introduction to HTML and CSS, including how
   to follow best practices.
 
+### UI Design, Product Design, and UX
+* [Open Web BU's Resource Page](http://openwebbu.org/resources)  
+  A bunch of resources for learning, prototyping, and designing. Sections are
+  also sorted into Free and Paid, which is a nice bonus.
+
 ### Engineering
 * [Latency Numbers Every Engineer Should Know](https://quizlet.com/91957128/latency-numbers-every-programmer-should-know-flash-cards/)  
  Flash cards with useful estimates for reasoning about how long operations take.
