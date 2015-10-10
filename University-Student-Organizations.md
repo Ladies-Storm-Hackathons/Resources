@@ -5,7 +5,7 @@ at large.
 
 Please [fork](https://github.com/Ladies-Storm-Hackathons/Resources) and add any
 relevant student groups you are either personally involved in, or know to be
-active. Or a pull request, or get the attention of the maintainer,
+active. Or a pull request, or otherwise get the attention of the maintainer,
 [aliceyoung9](https://github.com/aliceyoung9).
 
 ## USA
@@ -14,14 +14,14 @@ active. Or a pull request, or get the attention of the maintainer,
 
 ##### The University of Maryland, College Park
   * [The Association for Women in Computing](http://www.cs.umd.edu/~awc/)  
-    The Association for Women in Computing is composed of a group of 
-    students who encourage women to enter and progress in the Computer 
+    The Association for Women in Computing is composed of a group of
+    students who encourage women to enter and progress in the Computer
     Science field.
       * Email: [awc.umcp@gmail.com](mailto:awc.umcp@gmail.com)
       * [@umdawc](https://twitter.com/umdawc)
 
   * [Terrapin Hackers](http://www.terrapinhackers.com/)  
-    Terrapin Hackers is about building interesting things, combining 
+    Terrapin Hackers is about building interesting things, combining
     excellence, playfulness, cleverness, and exploration.
       * Email: [team@terrapinhackers.com](mailto:team@terrapinhackers.com)
       * [@TerrapinHackers](https://twitter.com/TerrapinHackers)
@@ -29,14 +29,30 @@ active. Or a pull request, or get the attention of the maintainer,
 
 ### Massachusetts
 
+##### Amherst College
+  * "Hello, Girl!": Amherst Women in CS
+      * [Facebook Group](https://www.facebook.com/groups/289500444531712/)
+
+##### Mount Holyoke
+  * MHC Computer Science Society
+      * [Facebook](https://www.facebook.com/mhcompsci)
+
 ##### Northeastern University
   * [nuWiT](http://nuwit.ccs.neu.edu/) (formerly known as CISters)  
-    nuWiT is a student group at Northeastern University created with the 
-    intention of supporting and connecting females who are studying or 
+    nuWiT is a student group at Northeastern University created with the
+    intention of supporting and connecting females who are studying or
     interested in the fields of Computer and Information Science.
       * Email: [nuwit-officers@ccs.neu.edu](mailto:nuwit-officers@ccs.neu.edu)
       * [@nuWomenInTech](https://twitter.com/nuWomenInTech)
       * [Facebook](https://www.facebook.com/groups/nucisters/)
+
+##### Smith College
+  * Smithies in Computer Science
+      * [Facebook Page](https://www.facebook.com/SmithiesInCS)
+
+##### Tufts University
+  * WiCS
+      * [Facebook Group](https://www.facebook.com/groups/221500931381460)
 
 ### New Jersey
 
@@ -72,8 +88,8 @@ active. Or a pull request, or get the attention of the maintainer,
 
 ##### New York University
   * [Tech @ NYU](http://techatnyu.org)  
-    We host tech, design, and entrepreneurship events for students 
-    at NYU and surrounding schools. We welcome students of all 
+    We host tech, design, and entrepreneurship events for students
+    at NYU and surrounding schools. We welcome students of all
     experience levels.
       * [@TechatNYU](https://twitter.com/TechatNYU)
 
