@@ -123,3 +123,16 @@ active. Or a pull request, or get the attention of the maintainer,
     page. We also have various other special events and programs throughout the
     year.
       * [Facebook](https://www.facebook.com/groups/TAMUawics/)
+
+## Canada
+
+### Ontario
+
+##### Western University
+  * [WiTS](http://wits.csd.uwo.ca/)
+    At WiTS, we believe that encouraging women to pursue technological fields of
+    study is not only valuable, but necessary. We aim to create a supportive
+    community for female students at Western who are studying or interested in
+    Computer Science and Software Engineering.
+      * [Facebook](https://www.facebook.com/groups/witswestern/)
+      * [Twitter](https://twitter.com/WiTSWestern)
