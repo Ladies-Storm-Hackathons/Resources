@@ -30,10 +30,14 @@ active. Or a pull request, or get the attention of the maintainer,
 ### Massachusetts
 
 ##### Boston University
-  * [BU WiCS](https://buwics.wordpress.com/)
-  This new organization at Boston University is designed to encourage women in computer science studies by providing a supportive community, informing members about national computing events, drawing a focus on women in technology, offering mentorship via study groups, social activities, networking opportunities and professional events.
-    *Email: [wics@bu.edu](mailto:wics@bu.edu)
-    *[Facebook](https://www.facebook.com/groups/wicsbu/)
+  * [BU WiCS](https://buwics.wordpress.com/)  
+    This new organization at Boston University is designed to encourage women in
+    computer science studies by providing a supportive community, informing
+    members about national computing events, drawing a focus on women in
+    technology, offering mentorship via study groups, social activities,
+    networking opportunities and professional events.
+      * Email: [wics@bu.edu](mailto:wics@bu.edu)
+      * [Facebook](https://www.facebook.com/groups/wicsbu/)
 
 ##### Northeastern University
   * [nuWiT](http://nuwit.ccs.neu.edu/) (formerly known as CISters)  
