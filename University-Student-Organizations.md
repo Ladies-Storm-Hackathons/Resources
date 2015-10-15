@@ -33,7 +33,7 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
   * "Hello, Girl!": Amherst Women in CS
       * [Facebook Group](https://www.facebook.com/groups/289500444531712/)
 
-##### Mount Holyoke
+##### Mount Holyoke College
   * MHC Computer Science Society
       * [Facebook](https://www.facebook.com/mhcompsci)
 
@@ -49,6 +49,7 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
 ##### Smith College
   * Smithies in Computer Science
       * [Facebook Page](https://www.facebook.com/SmithiesInCS)
+      * [Facebook Group](https://www.facebook.com/groups/SmithiesInCS/)
 
 ##### Tufts University
   * WiCS
