@@ -69,6 +69,7 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
   * CS Club
       * Email:
         [cs-club-eboard@wellesley.edu](mailto:cs-club-eboard@wellesley.edu)
+      * [Facebook Page](https://www.facebook.com/Wellesley-CS-Club-856871510992038/)
 
 ### New Jersey
 
