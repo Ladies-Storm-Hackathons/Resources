@@ -96,6 +96,7 @@
 * [Open Web BU's Resource Page](http://openwebbu.org/resources)  
   A bunch of resources for learning, prototyping, and designing. Sections are
   also sorted into Free and Paid, which is a nice bonus.
+* [Web Field Manual](http://webfieldmanual.com/)
 
 ### Engineering
 * [Latency Numbers Every Engineer Should Know](https://quizlet.com/91957128/latency-numbers-every-programmer-should-know-flash-cards/)  
