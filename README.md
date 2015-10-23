@@ -98,6 +98,9 @@
   also sorted into Free and Paid, which is a nice bonus.
 * [Web Field Manual](http://webfieldmanual.com/)
 
+### Databases/SQL
+* [Learn SQL by Codecademy](https://www.codecademy.com/en/courses/learn-sql/)
+
 ### Engineering
 * [Latency Numbers Every Engineer Should Know](https://quizlet.com/91957128/latency-numbers-every-programmer-should-know-flash-cards/)  
  Flash cards with useful estimates for reasoning about how long operations take.
