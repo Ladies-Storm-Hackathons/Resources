@@ -4,7 +4,7 @@
 * [NodeSchool](http://nodeschool.io/)  
   Contains essential skills for working with Node.js
 * [LearnRx](http://reactivex.io/learnrx/)  
-  Learn functional programming in JavaScript. This [video series](https://egghead.io/lessons/javascript-chaining-the-array-map-and-filter-methods) can help you 
+  Learn functional programming in JavaScript. This [video series](https://egghead.io/lessons/javascript-chaining-the-array-map-and-filter-methods) can help you
   if you're feeling stuck.
 
 ### Command Line
@@ -104,6 +104,11 @@
 ### Engineering
 * [Latency Numbers Every Engineer Should Know](https://quizlet.com/91957128/latency-numbers-every-programmer-should-know-flash-cards/)  
  Flash cards with useful estimates for reasoning about how long operations take.
+
+### Non-Technical Skills
+* [Cassidy Williams' Guide for Getting a Gig](https://github.com/cassidoo/getting-a-gig)  
+  Oriented towards college students.
+* [How to cold-email a startup into giving you an internship](https://creator.wework.com/knowledge/get-startup-job-internship-cold-email/)
 
 # About This Repo
 Style Guidelines: I like keeping lines at 80 characters max. The frequent
