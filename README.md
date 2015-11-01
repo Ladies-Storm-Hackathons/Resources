@@ -30,6 +30,8 @@
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html)  
   For the less visual learners, an online book explaining algorithms and data
   structures (uses Python).
+* [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+  A primer on machine learning for beginners, with helpful visualizations.
 
 ##### Complexity, Big-O Notation
 * [Lecture Notes - Jonathan Shewchuk](https://www.cs.berkeley.edu/~jrs/61b/lec/20)  
