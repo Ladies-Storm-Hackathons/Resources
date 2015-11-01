@@ -100,6 +100,10 @@
 
 ### Databases/SQL
 * [Learn SQL by Codecademy](https://www.codecademy.com/en/courses/learn-sql/)
+* [MISSQL Command](http://missqlcommand.com)  
+  A simple game to practice SQL basics.
+* [PostgreSQL Exercises](http://pgexercises.com)  
+  Learn about more complex SQL queries with a series of exercises.
 
 ### Engineering
 * [Latency Numbers Every Engineer Should Know](https://quizlet.com/91957128/latency-numbers-every-programmer-should-know-flash-cards/)  
