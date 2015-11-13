@@ -39,6 +39,8 @@
   and misconceptions section towards the bottom is pretty good too.
 * [Big O Lecture Notes - Jim Marshall](http://science.slc.edu/~jmarshall/courses/2002/spring/cs50/BigO/)
   Tons of graphs for comparing running times.
+* [Big-O Cheat Sheet](http://www.bigocheatsheet.com)
+  Super helpful cheat sheet for common data structures.
 
 ### Git
 * [Try Git](https://try.github.io/)  
@@ -52,10 +54,16 @@
 * [Git Tips From The Trenches](https://ochronus.com/git-tips-from-the-trenches/)  
   For those who want to elevate their version control game. This is a list of
   neat commands, configs, and neat tricks.
+* [A succesful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+  Development model for git branches. Especially helpful for long-term 
+  projects.
 * [Keeping a Github Fork Updated](http://robots.thoughtbot.com/keeping-a-github-fork-updated)  
   For those starting to contribute to Open Source, or those starting their first
   Big Kid Software Engineering Project, where one has to git along with others
   (not sorry for pun).
+* [Writing good git commit messages](http://chris.beams.io/posts/git-commit/) 
+  Learn how to write git messages that will make sense to a newcomer for 
+  your project.
 * [Git Manual](http://git-scm.com/docs)  
   Precise and nitpicky, but this is basically an official manual, so that's par
   for the course.
