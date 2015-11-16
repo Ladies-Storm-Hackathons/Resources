@@ -4,8 +4,9 @@
 * [NodeSchool](http://nodeschool.io/)  
   Contains essential skills for working with Node.js
 * [LearnRx](http://reactivex.io/learnrx/)  
-  Learn functional programming in JavaScript. This [video series](https://egghead.io/lessons/javascript-chaining-the-array-map-and-filter-methods) can help you
-  if you're feeling stuck.
+  Learn functional programming in JavaScript. This
+  [video series](https://egghead.io/lessons/javascript-chaining-the-array-map-and-filter-methods)
+  can help you if you're feeling stuck.
 
 ### Command Line
 * [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial) by Michael Hartl  
@@ -54,16 +55,16 @@
 * [Git Tips From The Trenches](https://ochronus.com/git-tips-from-the-trenches/)  
   For those who want to elevate their version control game. This is a list of
   neat commands, configs, and neat tricks.
-* [A succesful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
-  Development model for git branches. Especially helpful for long-term 
+* [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)  
+  Development model for git branches. Especially helpful for long-term
   projects.
 * [Keeping a Github Fork Updated](http://robots.thoughtbot.com/keeping-a-github-fork-updated)  
   For those starting to contribute to Open Source, or those starting their first
   Big Kid Software Engineering Project, where one has to git along with others
   (not sorry for pun).
-* [Writing good git commit messages](http://chris.beams.io/posts/git-commit/) 
-  Learn how to write git messages that will make sense to a newcomer for 
-  your project.
+* [Writing good git commit messages](http://chris.beams.io/posts/git-commit/)  
+  Learn how to write git messages that will make sense to a newcomer for your
+  project.
 * [Git Manual](http://git-scm.com/docs)  
   Precise and nitpicky, but this is basically an official manual, so that's par
   for the course.
@@ -117,13 +118,19 @@
 
 ### Engineering
 * [Latency Numbers Every Engineer Should Know](https://quizlet.com/91957128/latency-numbers-every-programmer-should-know-flash-cards/)  
- Flash cards with useful estimates for reasoning about how long operations take.
+  Flash cards with useful estimates for reasoning about how long operations
+  take.
 
-### Non-Technical Skills
+### Interviewing and Getting a Job
 * [Cassidy Williams' Guide for Getting a Gig](https://github.com/cassidoo/getting-a-gig)  
   Oriented towards college students.
 * [How to cold-email a startup into giving you an internship](https://creator.wework.com/knowledge/get-startup-job-internship-cold-email/)
+* [Front End Developer Interview Questions](http://h5bp.github.io/Front-end-Developer-Interview-Questions/)  
+  Tons of them. From HTML5 Boilerplate.
 
 # About This Repo
 Style Guidelines: I like keeping lines at 80 characters max. The frequent
 exception will be lines that have to contain long URL's.
+
+Note that each bullet pointed link has two trailing spaces, to induce a line
+break in Markdown.
