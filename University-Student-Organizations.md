@@ -156,6 +156,13 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
     page. We also have various other special events and programs throughout the
     year.
       * [Facebook](https://www.facebook.com/groups/TAMUawics/)
+ 
+### Washington
+
+##### University of Washington Tacoma
+  * [Women in Computing Science](https://students.washington.edu/wics)/  
+    WiCS seek to challenge biases and myths faced by women and other minorities in computing sciences and promote allyship among non-minority members. We also want to provide members with the tools they need to be as successful as possible in this field, including building computer science skills, providing introduction to industry tools and resources, and teaching necessary strategies for self-promotion and overcoming obstacles.
+      * [Facebook](https://www.facebook.com/groups/uwtwics/)
 
 ## Canada
 
