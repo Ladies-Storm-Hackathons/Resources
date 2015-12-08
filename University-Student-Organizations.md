@@ -71,6 +71,18 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
         [cs-club-eboard@wellesley.edu](mailto:cs-club-eboard@wellesley.edu)
       * [Facebook Page](https://www.facebook.com/Wellesley-CS-Club-856871510992038/)
 
+### Michigan
+
+##### Michigan State University
+ * [MSU Women in Computing (MSUWIC)](http://cse.msu.edu/msuwic/)
+   Michigan State University Women in Computing (MSUWIC) is an organization of 
+   students and faculty (both men and women) who work to recruit, support and
+   retain women in computing fields.  MSUWIC is also a chapter of ACM-W.
+   * Email: [msuwic@cse.msu.edu](mailto:msuwic@cse.msu.edu)
+   * [Mailing List](http://mailman.egr.msu.edu/mailman/listinfo/cse-women)
+   * [Facebook Page](https://www.facebook.com/MSUWomenInComputing)
+   * [Facebook Group](https://www.facebook.com/groups/2306289595/)
+
 ### New Jersey
 
 ##### Rutgers University
