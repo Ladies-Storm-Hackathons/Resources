@@ -13,13 +13,17 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
 ###Iowa 
 
 #### Iowa State University
-  * [Digital Women](http://digitalwomen.ece.iastate.edu/)
-    Digital Women is a community of women dedicated to encouraging, supporting and retaining women in Computer Science, Software          Engineering, Electrical Engineering, Computer Engineering and MIS at Iowa State University.
-    * [Facebook](https://www.facebook.com/digitalwomenisu/)
-    * [Twitter](https://twitter.com/DigitalWomenISU)
-    * [Univeristy Website](https://www.stuorg.iastate.edu/site/dw1)
-  * [WiSE - Program for Women in Science and Engineering](http://www.wise.iastate.edu/homepage.html)
-    The Program for Women in Science and Engineering (WiSE) was founded in 1986 by a group of ISU faculty and staff concerned about       the underrepresentation and underutilization of women in science and engineering. WiSE staff members collaborate with others on       programming to increase the participation of women in science, technology, engineering, and math (STEM) fields. 
+  * [Digital Women](http://digitalwomen.ece.iastate.edu/)  
+    Digital Women is a community of women dedicated to encouraging, supporting and retaining women 
+    in technical majors. 
+      * [Facebook Page](https://www.facebook.com/digitalwomenisu/)
+      * [@DigitalWomenISU](https://twitter.com/DigitalWomenISU)
+      * [University Website](https://www.stuorg.iastate.edu/site/dw1)
+
+  * [WiSE - Program for Women in Science and Engineering](http://www.wise.iastate.edu/homepage.html)  
+    The Program for Women in Science and Engineering (WiSE) was founded in 1986 by a group of ISU faculty and staff concerned about
+    the underrepresentation and underutilization of women in science and engineering. WiSE staff members collaborate with others on
+    programming to increase the participation of women in science, technology, engineering, and math (STEM) fields.
 
 ### Maryland
 
