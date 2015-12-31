@@ -68,7 +68,7 @@
 * [Git Manual](http://git-scm.com/docs)  
   Precise and nitpicky, but this is basically an official manual, so that's par
   for the course.
-* [Git Branching](https://pcottle.github.io/learnGitBranching/)
+* [Git Branching](https://pcottle.github.io/learnGitBranching/)   
   Step by Step guide to learning how Github works and Git. 
 
 ### Python
