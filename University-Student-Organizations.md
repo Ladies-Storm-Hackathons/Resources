@@ -149,6 +149,16 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
       * [@hackduke](https://twitter.com/hackduke)
   * [Wiring With Women](https://www.facebook.com/groups/744561652317777/)
 
+##### North Carolina State University  
+  * [WiCS](http://www.wicsatncsu.org/)  
+    The mission of WICS is to support, promote, and retain women in computer science by providing opportunities for personal and professional development, social interaction, and outreach.
+      * [wics.ncsu@gmail.com](mailto:wics.ncsu@gmail.com)
+      * [Facebook](https://www.facebook.com/groups/ncsuwics/)
+      * [@WiCS_NCSU](https://twitter.com/WiCS_NCSU)
+  * [DiamondHacks](http://www.ncsudiamondhacks.com/)
+      * [Facebook](https://www.facebook.com/ncsudiamondhacks/)
+      * [@TheDiamondHacks](https://twitter.com/TheDiamondHacks)
+
 ### Rhode Island
 
 ##### Brown University
