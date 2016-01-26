@@ -96,6 +96,11 @@
 * [Eloquent JavaScript](http://eloquentjavascript.net/)  
   Introduction to JavaScript and web development.
 
+##### ES6-Specific
+  * [ES6 Cheatsheet by Rico Sta. Cruz](http://ricostacruz.com/cheatsheets/es6.html)
+  * [ECMAScript 6 Learning Resources by ericdouglas](https://github.com/ericdouglas/ES6-Learning)  
+    Long list of articles, books, guides, talks, and other useful links.
+
 ### HTML/CSS
 * [Dash by General Assembly](https://dash.generalassemb.ly)  
   Get introduced to HTML and CSS through a series of interactive tutorials.
