@@ -30,7 +30,7 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
 ### Maryland
 
 ##### The University of Maryland, College Park
-  * [The Association for Women in Computing](http://www.cs.umd.edu/~awc/)  
+  * [The Association for Women in Computing](https://awc-umcp.squarespace.com/)  
     The Association for Women in Computing is composed of a group of
     students who encourage women to enter and progress in the Computer
     Science field.
@@ -92,7 +92,7 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
 
 ##### Michigan State University
  * [MSU Women in Computing (MSUWIC)](http://cse.msu.edu/msuwic/)
-   Michigan State University Women in Computing (MSUWIC) is an organization of 
+   Michigan State University Women in Computing (MSUWIC) is an organization of
    students and faculty (both men and women) who work to recruit, support and
    retain women in computing fields.  MSUWIC is also a chapter of ACM-W.
    * Email: [msuwic@cse.msu.edu](mailto:msuwic@cse.msu.edu)
