@@ -195,6 +195,15 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
     page. We also have various other special events and programs throughout the
     year.
       * [Facebook](https://www.facebook.com/groups/TAMUawics/)
+      
+##### University of Texas at Austin
+  * [Women in Computer Science] (http://www.cs.utexas.edu/~wics/)
+    Women in Computer Science at the University of Texas at Austin is a non-profit organization dedicated to building a
+    network community of women in Computer Science.
+    WiCS's mission is to encourage and support women in computing through outreach, professional development, academic    
+    initiatives, and social events.
+      * [Facebook](https://www.facebook.com/groups/WiCSstudentorg/)
+      * [Twitter](https://twitter.com/texaswics)
 
 ### Washington
 
