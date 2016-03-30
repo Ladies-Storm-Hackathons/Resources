@@ -69,7 +69,7 @@
   Precise and nitpicky, but this is basically an official manual, so that's par
   for the course.
 * [Introduction to Git Commits](https://pcottle.github.io/learnGitBranching/)   
-  Step by Step interactive guide to learning how Github works and using Git commands. 
+  Step by Step interactive guide to learning how Github works and using Git commands.
 
 ### Python
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)  
@@ -97,6 +97,8 @@
   A guide intended to introduce new developers to JavaScript.
 * [Eloquent JavaScript](http://eloquentjavascript.net/)  
   Introduction to JavaScript and web development.
+* [You Don't Know JavaScript by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
+  In-depth free eBook on JavaScript.
 
 ##### ES6-Specific
   * [ES6 Cheatsheet by Rico Sta. Cruz](http://ricostacruz.com/cheatsheets/es6.html)
