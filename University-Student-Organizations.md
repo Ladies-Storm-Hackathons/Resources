@@ -159,6 +159,12 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
       * [Facebook](https://www.facebook.com/ncsudiamondhacks/)
       * [@TheDiamondHacks](https://twitter.com/TheDiamondHacks)
 
+### Pennsylvania
+
+##### University of Pennsylvania
+  * [Penn WiCS](http://wics.cis.upenn.edu/)
+      * [Facebook](https://www.facebook.com/wicsatpenn/)
+
 ### Rhode Island
 
 ##### Brown University
@@ -195,7 +201,7 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
     page. We also have various other special events and programs throughout the
     year.
       * [Facebook](https://www.facebook.com/groups/TAMUawics/)
-      
+
 ##### University of Texas at Austin
   * [Women in Computer Science] (http://www.cs.utexas.edu/~wics/)
     Women in Computer Science at the University of Texas at Austin is a non-profit organization dedicated to building a
