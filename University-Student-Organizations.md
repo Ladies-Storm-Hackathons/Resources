@@ -138,6 +138,11 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
     at NYU and surrounding schools. We welcome students of all
     experience levels.
       * [@TechatNYU](https://twitter.com/TechatNYU)
+  * NYU WinC  
+    NYU Courant's Women in Computing supports women interested in technology by
+    providing an environment to encourage them and activities to inspire them.
+      * [Facebook](https://www.facebook.com/groups/wincnyu/)
+
 
 ### North Carolina
 
