@@ -141,7 +141,7 @@
 * [Front End Developer Interview Questions](http://h5bp.github.io/Front-end-Developer-Interview-Questions/)  
   Tons of them. From HTML5 Boilerplate.
 
-# About This Repo
+# About This File
 Style Guidelines: I like keeping lines at 80 characters max. The frequent
 exception will be lines that have to contain long URL's.
 
