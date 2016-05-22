@@ -111,6 +111,7 @@
 * [Learn to Code HTML & CSS by Shay Howe](http://learn.shayhowe.com/html-css/)  
   This guide offers a more in-depth introduction to HTML and CSS, including how
   to follow best practices.
+* [CSS Diner](http://flukeout.github.io/#) A fantastic game that teaches you CSS selectors.
 
 ### UI Design, Product Design, and UX
 * [Open Web BU's Resource Page](http://openwebbu.org/resources)  
@@ -135,8 +136,7 @@
   Oriented towards college students.
 * [A Freshman's Guide to Tech Internships](https://docs.google.com/document/d/18XaP0nRU2fS-i-uxxWpvAy41hD_UF3rzjiJRouqF_Gc/edit)  
   Specifically written for college first-years. Tons of information about what
-  companies are looking for, too, as well as a list of freshman-specific
-  programs.
+  companies are looking for, too, as well as a list of freshman-specific and freshman-friendly programs.
 * [How to cold-email a startup into giving you an internship](https://creator.wework.com/knowledge/get-startup-job-internship-cold-email/)
 * [Front End Developer Interview Questions](http://h5bp.github.io/Front-end-Developer-Interview-Questions/)  
   Tons of them. From HTML5 Boilerplate.
