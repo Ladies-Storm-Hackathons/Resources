@@ -166,6 +166,13 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
 
 ### Pennsylvania
 
+##### Bryn Mawr College
+  * [Sudo Hoot](http://sudohoot.com/)
+      * [Facebook Page](https://www.facebook.com/sudohoot/)
+      * [Facebook Group](https://www.facebook.com/groups/SudoHoot/)
+      * [Blog](http://blog.sudohoot.com/)
+      * [Job Board](http://jobs.sudohoot.com/)
+
 ##### University of Pennsylvania
   * [Penn WiCS](http://wics.cis.upenn.edu/)
       * [Facebook](https://www.facebook.com/wicsatpenn/)
