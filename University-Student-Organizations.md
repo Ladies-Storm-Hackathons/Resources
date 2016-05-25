@@ -247,3 +247,11 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
     Computer Science and Software Engineering.
       * [Facebook](https://www.facebook.com/groups/witswestern/)
       * [Twitter](https://twitter.com/WiTSWestern)
+
+### Québec
+
+##### McGill University
+  * McWiCS
+    We strive to cultivate a warm, open-minded community of techies dedicated to
+    supporting and encouraging women in computer science.
+      * [Twitter](https://twitter.com/McGillWiCS)
