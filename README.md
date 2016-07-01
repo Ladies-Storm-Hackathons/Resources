@@ -120,6 +120,11 @@
   also sorted into Free and Paid, which is a nice bonus.
 * [Web Field Manual](http://webfieldmanual.com/)
 
+##### Visual Design: Color
+  * [HTML Color Codes by Dixon & Moe](http://htmlcolorcodes.com/)  
+    Basic color theory principles, color charts, a list of recognized named HTML Colors, as well as
+    tutorials for leveraging color in HTML/CSS/Sass.
+
 ### Databases/SQL
 * [Learn SQL by Codecademy](https://www.codecademy.com/en/courses/learn-sql/)
 * [MISSQL Command](http://missqlcommand.com)  
