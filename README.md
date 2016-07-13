@@ -111,8 +111,10 @@
 * [Learn to Code HTML & CSS by Shay Howe](http://learn.shayhowe.com/html-css/)  
   This guide offers a more in-depth introduction to HTML and CSS, including how
   to follow best practices.
-* [CSS Diner](http://flukeout.github.io/)
+* [CSS Diner](http://flukeout.github.io/)  
   A fantastic game that teaches you CSS selectors.
+* [Flexbox Froggy](http://flexboxfroggy.com/)  
+  A similar game for learning how to align flexboxes using CSS.
 
 ### UI Design, Product Design, and UX
 * [Open Web BU's Resource Page](http://openwebbu.org/resources)  
