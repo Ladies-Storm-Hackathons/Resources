@@ -10,6 +10,29 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
 
 ## USA
 
+###California
+
+#### Stanford University
+  * [Girls Teaching Girls to Code](http://www.girlsteachinggirlstocode.org)  
+    Girls Teaching Girls to Code is a program where Stanford women teach and
+    inspire Bay Area high school girls to explore Computer Science and Engineering.
+    Students learn programming basics, build exciting projects, and develop strong
+    relationships with mentors in the field.
+      * [Facebook Page](https://www.facebook.com/girlsteachinggirlstocode)
+
+  * [she++](http://www.sheplusplus.com)  
+    she++ works to empower underrepresented groups in technology by dismantling
+    negative stereotypes surrounding technical careers.  It aims to dispel the
+    misconception that computer science is not a career for women and minorities by
+    rebranding what it means to be a technologist.
+      * [Facebook Page](https://www.facebook.com/ShePlusPlus/)
+
+  * [Stanford Women in Computer Science (WiCS)](http://wics.stanford.edu)  
+    Stanford WiCS works to build and strengthen the community of women in CS
+    raise awareness of the issues women in the field face, and encourage their
+    educational and professional development.
+      * [Facebook Page](https://www.facebook.com/StanfordWICS)
+
 ###Iowa
 
 #### Iowa State University
