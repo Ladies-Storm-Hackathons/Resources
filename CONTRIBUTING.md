@@ -27,3 +27,10 @@ We use and enforce the
 [Contributor Covenant, v1.4](http://contributor-covenant.org/version/1/4/). To
 report violations, email [aliceyoung.9@gmail.com](aliceyoung.9@gmail.com), the
 maintainer.
+
+## License
+
+This repo is licensed under
+[CC0](https://creativecommons.org/publicdomain/zero/1.0/), meaning it's in the
+public domain. By contributing, you are acknowledging this and are releasing
+your contributions into the public domain.
