@@ -13,7 +13,7 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
 ###California
 
 #### Stanford University
-  * [Girls Teaching Girls to Code](http://wics.stanford.edu)  
+  * [Girls Teaching Girls to Code](http://www.girlsteachinggirlstocode.org)  
     Girls Teaching Girls to Code is a program where Stanford women teach and
     inspire Bay Area high school girls to explore Computer Science and Engineering.
     Students learn programming basics, build exciting projects, and develop strong
