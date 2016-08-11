@@ -28,6 +28,11 @@
 	[Array API](http://www.ruby-doc.org/core-2.2.0/Array.html) in the Ruby
 	programming language.
 
+### D
+- Developer Evangelist 
+	- Also known as a devangelist, this person is a mentor, a teacher, a programmer, an advocate, a translator. This position straddles the line between engineering and marketing, explaining technology to a variety of audiences, aiming to convince said audiences to use that technology, getting excited about it. 
+
+
 ### F 
 
 - Framework
