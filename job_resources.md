@@ -20,7 +20,7 @@ conversation with a recruiter.
   Tons of them. From HTML5 Boilerplate.
 
 ##### See Also
-Algorithms resources in the [README file](README.md).
+Algorithms resources in the [Learning Resources file](learning_resources.md).
 
 ### Negotiating
 * [15 Rules for Negotiating a Job Offer](https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer)  
