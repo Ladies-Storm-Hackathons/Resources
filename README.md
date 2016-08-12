@@ -2,7 +2,14 @@
 
 ## [Learning Resources](learning_resources.md)
 
+Go here for anything related to learning about programming topics or anything
+else in the tech family.
+
 ## [Job Resources](job_resources.md)
+
+Go here for anything related to getting a gig, interviewing, or negotiating.
+
+## About This Repo
 
 Style Guidelines: I like keeping lines at 80 characters max. The frequent
 exception will be lines that have to contain long URL's.

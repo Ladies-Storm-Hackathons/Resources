@@ -15,6 +15,9 @@ articles below; don't wait until you get an offer. Negotiation starts when you'r
 asked for your previous and/or expected salary, which may be in your first
 conversation with a recruiter.
 
+### Opportunities
+* [Sudo Hoot Job Board](http://jobs.sudohoot.com/)
+
 ### Interviewing
 * [Front End Developer Interview Questions](http://h5bp.github.io/Front-end-Developer-Interview-Questions/)  
   Tons of them. From HTML5 Boilerplate.
@@ -46,3 +49,6 @@ Algorithms resources in the [Learning Resources file](learning_resources.md).
   The title is somewhat misleading; this article really provides a set of
   specific tactics for how to handle some of the toughest situations that
   inevitably come up during negotiation.
+
+### Data
+* [Anonymous Tech Pay Sheet](https://docs.google.com/spreadsheets/d/1WkwNK36FyUfrEFK1QjxVod83vJSnuqezeuYF8LkMSbo/edit#gid=1606337908)  
