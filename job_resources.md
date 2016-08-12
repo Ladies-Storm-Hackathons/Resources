@@ -10,10 +10,10 @@
 * [How to cold-email a startup into giving you an internship](https://creator.wework.com/knowledge/get-startup-job-internship-cold-email/)  
 
 ##### NOTE
-As soon as you're at this stage of getting a gig, go read the negotiation
-articles below; don't wait until you get an offer. Negotiation starts when you're
-asked for your previous and/or expected salary, which may be in your first
-conversation with a recruiter.
+As soon as you're at this stage of getting a gig, go read the
+[negotiation articles](#negotiating) below; don't wait until you get an offer.
+Negotiation starts when you're asked for your previous and/or expected salary,
+which may be in your first conversation with a recruiter.
 
 ### Opportunities
 * [Sudo Hoot Job Board](http://jobs.sudohoot.com/)

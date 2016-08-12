@@ -9,12 +9,15 @@ else in the tech family.
 
 Go here for anything related to getting a gig, interviewing, or negotiating.
 
+## [University Student Organizations](University-Student-Organizations.md)
+
+This is a growing list of student organizations that focus on diversity in
+CS/Tech/STEM at large.
+
 ## About This Repo
 
-Style Guidelines: I like keeping lines at 80 characters max. The frequent
-exception will be lines that have to contain long URL's.
-
-Note that each bullet pointed link has two trailing spaces, to induce a line
-break in Markdown.
-
 License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+
+If you'd like to contribute, take a look at our
+[Contributing Guidelines](CONTRIBUTING.md), which has info about formatting and
+the Code of Conduct.
