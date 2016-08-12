@@ -16,11 +16,16 @@ Negotiation starts when you're asked for your previous and/or expected salary,
 which may be in your first conversation with a recruiter.
 
 ### Opportunities
-* [Sudo Hoot Job Board](http://jobs.sudohoot.com/)
+* [Sudo Hoot Job Board](http://jobs.sudohoot.com/)  
+* [Tech Ladies Job Board](http://www.hiretechladies.com/browse-jobs)  
+* [Women Who Code Job Board](https://www.womenwhocode.com/jobs)  
 
 ### Interviewing
 * [Front End Developer Interview Questions](http://h5bp.github.io/Front-end-Developer-Interview-Questions/)  
   Tons of them. From HTML5 Boilerplate.
+* [Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)  
+  Google recruiter-recommended article on how to prepare (long-term) for
+  algorithms interviews.
 
 ##### See Also
 Algorithms resources in the [Learning Resources file](learning_resources.md).
@@ -33,14 +38,13 @@ Algorithms resources in the [Learning Resources file](learning_resources.md).
 * [The Negotiator](https://medium.com/ladies-storm-hackathons/the-negotiator-e259da8fb7d1#.za5n72ag9)  
   This is a great negotiation overview targeted to women from LSH member
   Anastasia.
-* [Bullish: How To Ask For More Money, Part I](http://www.thegrindstone.com/2012/05/04/career-management/bullish-how-to-ask-for-more-money-part-i-107/)  
-  (Linked to in The Negotiator.) Drums up the mindset, specifically for women, to
+* [Bullish: How To Ask For More Money, Part I](http://www.thegrindstone.com/2012/05/04/career-management/bullish-how-to-ask-for-more-money-part-i-107/) &
+  [Part II](http://www.thegrindstone.com/2012/05/11/career-management/bullish-how-to-ask-for-more-money-part-ii-757/)  
+  (Linked to in _The Negotiator_.) Drums up the mindset, specifically for women, to
   ask for more money and explains how to go for it. This is a must-read if you're
   not confident about asking for more money.
-* [Bullish: How To Ask For More Money, Part II](http://www.thegrindstone.com/2012/05/11/career-management/bullish-how-to-ask-for-more-money-part-ii-757/)  
-  Second part of the previous article.
 * [Salary Negotiation: Make More Money, Be More Valued](http://www.kalzumeus.com/2012/01/23/salary-negotiation/)  
-  (Linked to in The Negotiator.) Explains why and how all programmers should
+  (Linked to in _The Negotiator_.) Explains why and how all programmers should
   negotiate. Also a mindset-changer, not just a how-to.
 * [How I negotiated for an additional $15,000 at Yammer](https://medium.com/we-are-yammer/how-i-negotiated-for-an-additional-15-000-at-yammer-2d3c137623ec#.fci5mk8bb)  
   This is a more personal take on negotiation, if you've read the rules but are
@@ -52,3 +56,5 @@ Algorithms resources in the [Learning Resources file](learning_resources.md).
 
 ### Data
 * [Anonymous Tech Pay Sheet](https://docs.google.com/spreadsheets/d/1WkwNK36FyUfrEFK1QjxVod83vJSnuqezeuYF8LkMSbo/edit#gid=1606337908)  
+* [H1B Salary Database](http://h1bdata.info)  
+* [Comparably](https://www.comparably.com/)  
