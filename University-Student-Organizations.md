@@ -33,6 +33,16 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
     educational and professional development.
       * [Facebook Page](https://www.facebook.com/StanfordWICS)
 
+###Illinois
+####Northwestern University
+  * **[Northwestern Women in Computing (WiC)](http://eecs.northwestern.edu/wic/)**:
+    WiC fosters a professional network of and community for women interested in technology.
+    Some of our initiatives include a mentorship program, weekly hack nights, and local middle school outreach.
+    Follow WiC on [Twitter](https://twitter.com/nuwic) and [Facebook](https://www.facebook.com/NUwic/)!
+  * **BuildHer**:
+    In April 2017, Women in Computing will host Chicago's first-ever student-run women's hackathon.
+    Follow BuildHer on [Twitter](https://twitter.com/nu_buildher) to stay updated.
+
 ###Iowa
 
 #### Iowa State University
