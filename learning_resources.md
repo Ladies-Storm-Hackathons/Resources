@@ -46,7 +46,7 @@
 ### Git
 * [Try Git](https://try.github.io/)  
   Never tried git? This interactive tutorial is for you!
-* [Github Git Cheatsheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
+* [Github Git Cheatsheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
   (PDF) Helpful for those who haven't quite memorized the more frequently-used
   git commands.
 * [Atlassian's Git Tutorials](https://www.atlassian.com/git/tutorials)
