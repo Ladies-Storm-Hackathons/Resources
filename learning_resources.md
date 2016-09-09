@@ -65,6 +65,8 @@
 * [Writing good git commit messages](http://chris.beams.io/posts/git-commit/)  
   Learn how to write git messages that will make sense to a newcomer for your
   project.
+* [Oh shit, git!](http://ohshitgit.com/)  
+  Plain English explanations and solutions for common sticky Git situations.
 * [Git Manual](http://git-scm.com/docs)  
   Precise and nitpicky, but this is basically an official manual, so that's par
   for the course.
