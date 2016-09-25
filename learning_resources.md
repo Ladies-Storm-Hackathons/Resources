@@ -117,6 +117,8 @@
   A fantastic game that teaches you CSS selectors.
 * [Flexbox Froggy](http://flexboxfroggy.com/)  
   A similar game for learning how to align flexboxes using CSS.
+* [Magic of CSS by Adam Schwartz](http://adamschwartz.co/magic-of-css/)  
+  A CSS course that demystifies some concepts of CSS.
 
 ### UI Design, Product Design, and UX
 * [Open Web BU's Resource Page](http://openwebbu.org/resources)  
