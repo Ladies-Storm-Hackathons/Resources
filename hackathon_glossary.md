@@ -52,6 +52,11 @@
 
 - Protocol
 
+### S
+
+- SDK
+        - SDK is an acronym for software development kit, which is a set of dev tools which makes it easier for developers to make apps for a specific platform (ie. iOS, Android, web...), package, framework, and more. SDKs are similar to APIs, but one key difference is that all SDKs include or are APIs, but not all APIs are SDKs.  
+
 ### T
 
 - TCP/IP
