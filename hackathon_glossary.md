@@ -28,6 +28,11 @@
 	[Array API](http://www.ruby-doc.org/core-2.2.0/Array.html) in the Ruby
 	programming language.
 
+### D
+- Developer Evangelist 
+	- Also known as a devangelist, this person is a mentor, a teacher, a programmer, an advocate, a translator. This position straddles the line between engineering and marketing, explaining technology to a variety of audiences, aiming to convince said audiences to use that technology, getting excited about it. 
+
+
 ### F 
 
 - Framework
@@ -46,6 +51,11 @@
 - Package
 
 - Protocol
+
+### S
+
+- SDK
+        - SDK is an acronym for software development kit, which is a set of dev tools which makes it easier for developers to make apps for a specific platform (ie. iOS, Android, web...), package, framework, and more. SDKs are similar to APIs, but one key difference is that all SDKs include or are APIs, but not all APIs are SDKs.  
 
 ### T
 
