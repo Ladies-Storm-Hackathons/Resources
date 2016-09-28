@@ -165,6 +165,16 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
       * [Facebook Page](https://www.facebook.com/cornellwomenincomnputing)
       * [Facebook Group for members and supporters](https://www.facebook.com/groups/wiccmembers/)
 
+##### Ithaca College
+  * [Ithaca College Women In Computing (ICWC)](https://www.facebook.com/IthacaCollegeWomenInComputing/)  
+    Our goal is to support, encourage and advocate for the full engagement women in computer science 
+    through social interaction, mentorship, extra education, professional development, and outreach. 
+    ICWC will attend hackathons, act as a study group, work on scholarship projects, volunteer in teaching
+    younger generations, and spread the word about more women getting involved in this field. 
+      * Email: [wicc@cornell.edu](mailto:weareicwc@gmail.com)
+      * [Facebook Page](https://www.facebook.com/IthacaCollegeWomenInComputing/)
+      * [Twitter](https://twitter.com/WeAreICWC)
+
 ##### New York University
   * [Tech @ NYU](http://techatnyu.org)  
     We host tech, design, and entrepreneurship events for students
