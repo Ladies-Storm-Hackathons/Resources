@@ -154,6 +154,12 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
 
 ### New York
 
+##### Columbia University
+ * [Women in Computer Science at Columbia University (WICS)](https://cuwics.github.io/)
+   WiCS aims to bring together women and men who support the advancement of women in computer science in academia and in industry.
+   * [Website](https://cuwics.github.io/)
+   * [Facebook Page](https://www.facebook.com/CUWICS/)
+
 ##### Cornell University
   * [Women in Computing at Cornell (WICC)](http://wicc.acm.org)  
     WICC's goal is to bring together the women in computing at Cornell. We seek
