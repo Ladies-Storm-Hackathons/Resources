@@ -271,6 +271,11 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
     initiatives, and social events.
       * [Facebook](https://www.facebook.com/groups/WiCSstudentorg/)
       * [Twitter](https://twitter.com/texaswics)
+  * [Minority Alliance in Computer Science] (http://www.cs.utexas.edu/users/macs/)
+    Minority Alliance in Computer Science at the University of Texas at Austin is a student organization whose purpose 
+    is to provide a community that encourages and supports minorities in CS.
+    MACS's mission is creating a community for anyone who feels that they are an underrepresented individual in computing.
+      * [Facebook](https://www.facebook.com/txmacs/)
 
 ### Washington
 
