@@ -131,6 +131,12 @@
     Basic color theory principles, color charts, a list of recognized named HTML Colors, as well as
     tutorials for leveraging color in HTML/CSS/Sass.
 
+### Web Frameworks
+##### Django
+  * [The Django Book](http://djangobook.com/)
+  * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/index.html)
+  * [Django documentation](https://docs.djangoproject.com/en/1.10/)
+
 ### Databases/SQL
 * [Learn SQL by Codecademy](https://www.codecademy.com/en/courses/learn-sql/)
 * [MISSQL Command](http://missqlcommand.com)  
@@ -142,9 +148,3 @@
 * [Latency Numbers Every Engineer Should Know](https://quizlet.com/91957128/latency-numbers-every-programmer-should-know-flash-cards/)  
   Flash cards with useful estimates for reasoning about how long operations
   take.
-
-### Web Development
-#### Django
-  * [The Django Book](http://djangobook.com/)
-  * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/index.html)
-  * [Django documentation](https://docs.djangoproject.com/en/1.10/)
