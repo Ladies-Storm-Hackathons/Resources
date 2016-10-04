@@ -58,3 +58,4 @@ Algorithms resources in the [Learning Resources file](learning_resources.md).
 * [Anonymous Tech Pay Sheet](https://docs.google.com/spreadsheets/d/1WkwNK36FyUfrEFK1QjxVod83vJSnuqezeuYF8LkMSbo/edit#gid=1606337908)  
 * [H1B Salary Database](http://h1bdata.info)  
 * [Comparably](https://www.comparably.com/)  
+* [PayScale](http://www.payscale.com/)  

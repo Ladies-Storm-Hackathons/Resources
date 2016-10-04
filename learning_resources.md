@@ -86,6 +86,8 @@
   This online book is a thorough introduction to programming and Ruby.
 * [Ruby Monk](https://rubymonk.com)  
   Interactive Ruby tutorials for various levels.
+* [Ruby Programming](http://www.theodinproject.com/ruby-programming)  
+  Guided resources from various sites for learning ruby and completing your first projects with next steps once you are finished.
 
 ### Go
 * [Go Training by William Kennedy](https://github.com/gobridge/gotraining)  
@@ -137,6 +139,8 @@
   A simple game to practice SQL basics.
 * [PostgreSQL Exercises](http://pgexercises.com)  
   Learn about more complex SQL queries with a series of exercises.
+* [Intro to SQL by Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)  
+  Learn how to use SQL to store, query, and manipulate data. They also have an [SQL sandbox](https://www.khanacademy.org/computer-programming/new/sql).  
 
 ### Engineering
 * [Latency Numbers Every Engineer Should Know](https://quizlet.com/91957128/latency-numbers-every-programmer-should-know-flash-cards/)  
