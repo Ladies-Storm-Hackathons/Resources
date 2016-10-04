@@ -7,6 +7,8 @@
   Learn functional programming in JavaScript. This
   [video series](https://egghead.io/lessons/javascript-chaining-the-array-map-and-filter-methods)
   can help you if you're feeling stuck.
+* [FreeCodeCamp](https://www.freecodecamp.com/)  
+  Learn to code and help non-profits! Learn about HTML, CSS, JavaScript and more.
 
 ### Command Line
 * [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial) by Michael Hartl  
