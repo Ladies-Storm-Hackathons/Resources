@@ -8,7 +8,7 @@
   [video series](https://egghead.io/lessons/javascript-chaining-the-array-map-and-filter-methods)
   can help you if you're feeling stuck.
 * [FreeCodeCamp](https://www.freecodecamp.com/)  
-  Learn to code and help non-profits! Learn about HTML, CSS, Bootstrap, Javascript, jQuery, Object-Oriented & Functional programming, JSON, Ajax, Sass, React, D3, Testing & Debugging, Git, Node.JS, Express.JS, MongoDB, and much, much more.
+  Learn to code and help non-profits! Learn about HTML, CSS, JavaScript and more.
 
 ### Command Line
 * [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial) by Michael Hartl  
