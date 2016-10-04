@@ -24,6 +24,12 @@ that have to contain long URL's.
 Note that each bullet-pointed link has two trailing spaces, to induce a line
 break in Markdown.
 
+## On Commit Messages
+
+Please write descriptive commit messages. A message that says "Added
+_some topic_ to _some file_" is far more useful to the maintainers and other
+contributors than leaving the default "Update Some-File-Name" message.
+
 ## Code of Conduct
 
 We use and enforce the
