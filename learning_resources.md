@@ -142,3 +142,9 @@
 * [Latency Numbers Every Engineer Should Know](https://quizlet.com/91957128/latency-numbers-every-programmer-should-know-flash-cards/)  
   Flash cards with useful estimates for reasoning about how long operations
   take.
+
+### Web Development
+#### Django
+  * [The Django Book](http://djangobook.com/)
+  * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/index.html)
+  * [Django documentation](https://docs.djangoproject.com/en/1.10/)
