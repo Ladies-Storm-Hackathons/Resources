@@ -141,6 +141,10 @@
   * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/index.html)
   * [Django documentation](https://docs.djangoproject.com/en/1.10/)
 
+##### Flask
+  * [Flask Documentation](http://flask.pocoo.org/docs/0.11/)
+  * [The Flask Mega-Tutorial by Miguel](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
 ### Databases/SQL
 * [Learn SQL by Codecademy](https://www.codecademy.com/en/courses/learn-sql/)
 * [MISSQL Command](http://missqlcommand.com)  
