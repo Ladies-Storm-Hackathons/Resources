@@ -111,6 +111,10 @@
   * [ECMAScript 6 Learning Resources by ericdouglas](https://github.com/ericdouglas/ES6-Learning)  
     Long list of articles, books, guides, talks, and other useful links.
 
+### Node
+* [Learn You Node](https://github.com/workshopper/learnyounode)
+  An introduction to Node.js through a command line interactive course.
+
 ### HTML/CSS
 * [Dash by General Assembly](https://dash.generalassemb.ly)  
   Get introduced to HTML and CSS through a series of interactive tutorials.
