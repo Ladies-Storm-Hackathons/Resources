@@ -101,15 +101,15 @@
   Introduction to JavaScript and web development.
 * [You Don't Know JavaScript by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
   In-depth free eBook on JavaScript.
-  
-### Node
-* [Learn You Node](https://github.com/workshopper/learnyounode)
-  An introduction to Node.js through a command line interactive course.
 
 ##### ES6-Specific
   * [ES6 Cheatsheet by Rico Sta. Cruz](http://ricostacruz.com/cheatsheets/es6.html)
   * [ECMAScript 6 Learning Resources by ericdouglas](https://github.com/ericdouglas/ES6-Learning)  
     Long list of articles, books, guides, talks, and other useful links.
+
+### Node
+* [Learn You Node](https://github.com/workshopper/learnyounode)
+  An introduction to Node.js through a command line interactive course.
 
 ### HTML/CSS
 * [Dash by General Assembly](https://dash.generalassemb.ly)  
