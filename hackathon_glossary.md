@@ -51,6 +51,7 @@
 - Package
 
 - Protocol
+	- A protocol is a system of rules that explain the correct conduct and procedures to be followed in a given situation. For example, the IP (Internet Protocol) defines a set of rules to send and receive messages at the Internet address level.
 
 ### S
 
