@@ -132,6 +132,18 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
    * [Mailing List](http://mailman.egr.msu.edu/mailman/listinfo/cse-women)
    * [Facebook Page](https://www.facebook.com/MSUWomenInComputing)
    * [Facebook Group](https://www.facebook.com/groups/2306289595/)
+   
+### Mississippi
+
+##### University of Southern Mississippi
+ * [USM Women in Science and Engineering (USMWISE)](https://www.usm.edu/leadership-student-involvement/college-science-and-technology-student-organizations)
+ 
+    Women in Science and Engineering does outreach to local elementary, middle, 
+    and high schools to encourage women in science in future generations. 
+    Women in Science and Engineering also offers mentoring, support, networking, 
+    and encouragementof WISEmembers.
+   * [Twitter](https://twitter.com/WISE_USM)
+   * [Facebook Group](https://www.facebook.com/groups/USMWISE/)
 
 ### New Jersey
 
