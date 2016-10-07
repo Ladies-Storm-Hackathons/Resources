@@ -32,6 +32,20 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
     raise awareness of the issues women in the field face, and encourage their
     educational and professional development.
       * [Facebook Page](https://www.facebook.com/StanfordWICS)
+      
+#### University of California, Davis
+  * [The Computer Science Club](https://www.facebook.com/groups/daviscsclub/)  
+    This Facebook group is for discussing interesting topical news and events related 
+    to the topic of Computer Science and Computer Science at UC Davis.
+  
+  * [The Society of Women Engineers at UC Davis](https://www.facebook.com/SocietyofWomenEngineersatUCDavis/?fref=ts)  
+    The local chapter here at UC Davis is free to all engineering students 
+    and provides a variety of workshops, community service, mentorship and 
+    industrial contact and outreach to engineering students.
+    
+  * [HackDavis](https://www.facebook.com/HackDavis/?fref=ts)  
+    HackDavis is the first major collegiate hackathon at UC Davis completely run by students. 
+    The theme is social good and happens annually in Winter or Spring quarter.
 
 ### Illinois
 
