@@ -346,6 +346,16 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
       * [Facebook](https://www.facebook.com/groups/witswestern/)
       * [Twitter](https://twitter.com/WiTSWestern)
 
+##### Waterloo University
+  * [Waterloo Women in Computer Science](http://wics.uwaterloo.ca/)  
+    The Waterloo Women in Computer Science Undergraduate Committee is a
+    student-run initiative that supports the success of women and non-binary
+    students in computer science at Waterloo. We run weekly events such as
+    technical talks from women in the industry, mentorship and social events,
+    hands-on workshops, and corporate networking events.
+      * [Facebook](https://www.facebook.com/wicsuw/?fref=ts)
+      * [Twitter](https://twitter.com/wicsuw)
+
 ### Québec
 
 ##### McGill University
