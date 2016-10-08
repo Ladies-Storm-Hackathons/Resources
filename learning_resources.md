@@ -12,7 +12,8 @@
 * [Treehouse](https://teamtreehouse.com/)
   Learn Web Design, Coding & much more. This is not a free resource. If your
   local library participates in the Treehouse program, you can check out a license,
-  just as you would physical media. If not, there is a monthly fee.
+  just as you would physical media. If not, there is a monthly fee of $25 for the
+  basic plan or $199 per month for their Tech Degree program.
   Learn from over 1000 videos created by expert teachers on web design, coding,
   business, and much more. The Treehouse library is continually refreshed with
   the latest on web technology so you'll never fall behind.
@@ -173,4 +174,5 @@
 ### Functional Programming
 * [Haskell Programming from First Principles](http://haskellbook.com)
   As the authors state, Haskell is not a difficult language to use. Haskell is
-  difficult to teach effectively. This book makes learning Haskell a joy.
+  difficult to teach effectively. This book makes learning Haskell a joy. The first
+  chapter of the book is free, then the book is $59.
