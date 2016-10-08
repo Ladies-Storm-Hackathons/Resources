@@ -9,6 +9,14 @@
   can help you if you're feeling stuck.
 * [FreeCodeCamp](https://www.freecodecamp.com/)  
   Learn to code and help non-profits! Learn about HTML, CSS, JavaScript and more.
+* [Treehouse](https://teamtreehouse.com/)
+  Learn Web Design, Coding & much more. This is not a free resource. If your
+  local library participates in the Treehouse program, you can check out a license,
+  just as you would physical media. If not, there is a monthly fee of $25 for the
+  basic plan or $199 per month for their Tech Degree program.
+  Learn from over 1000 videos created by expert teachers on web design, coding,
+  business, and much more. The Treehouse library is continually refreshed with
+  the latest on web technology so you'll never fall behind.
 
 ### Command Line
 * [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial) by Michael Hartl  
@@ -162,3 +170,9 @@
 * [Latency Numbers Every Engineer Should Know](https://quizlet.com/91957128/latency-numbers-every-programmer-should-know-flash-cards/)  
   Flash cards with useful estimates for reasoning about how long operations
   take.
+
+### Functional Programming
+* [Haskell Programming from First Principles](http://haskellbook.com)
+  As the authors state, Haskell is not a difficult language to use. Haskell is
+  difficult to teach effectively. This book makes learning Haskell a joy. The first
+  chapter of the book is free, then the book is $59.
