@@ -26,6 +26,34 @@ which may be in your first conversation with a recruiter.
 * [Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)  
   Google recruiter-recommended article on how to prepare (long-term) for
   algorithms interviews.
+  * [Tech Interview Cheat Sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)  
+  Studying for a Tech Interview Sucks, so Here's a Cheat Sheet to Help
+  * [Code Interview Resource Board](https://trello.com/b/lpp1l94G/code-interview-resource-board)  
+  Trello board with lists of different coding interview resources (articles, guides, books, etc.)
+  * [100 Must Know Algorithms](https://www.quora.com/What-algorithms-and-data-structures-should-any-software-engineer-know/answer/Arun-Sahay)  
+  Massive list of algorithms to brush up on
+  * [More coding interview resources](https://github.com/andreis/interview)  
+  Everything you need to kick ass on your coding interview
+  * [CS Interview Guide](https://github.com/schmatz/cs-interview-guide)  
+  A short guide on preparing for computer science interviews
+  * [Job Puzzles](https://github.com/SITZ/JobPuzzles)  
+  Solved Programming Challenges on website of various Companies
+  * [Interview Resources](https://github.com/davidhampgonsalves/interview-resources)  
+  Long list of resources for preparing for technical computer engineering interviews
+  * [Code Problems](https://github.com/blakeembrey/code-problems)  
+  Common code and interview problems solved in multiple languages
+  * [InterviewThis](https://github.com/ChiperSoft/InterviewThis)  
+  An open source list of developer questions to ask prospective employers
+  * [Front End Interview Questions (That JS Dude)](https://github.com/khan4019/front-end-Interview-Questions)  
+  More front-end/js/web dev questions
+  * [123 Essential JS Interview Questions](https://github.com/nishant8BITS/123-Essential-JavaScript-Interview-Question)  
+  Basically a whole book of JS interview questions
+  * [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)  
+  A curated awesome list of lists of interview questions. All the languages you could think of
+  * [How to Prepare for Tech Interviews](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)  
+  Another great guide someone posted on Reddit about how to prepare for tech interviews
+  * [How to Pass a Programming Interview](http://blog.triplebyte.com/how-to-pass-a-programming-interview)  
+  A guide to passing programming interviews
 
 ##### See Also
 Algorithms resources in the [Learning Resources file](learning_resources.md).
