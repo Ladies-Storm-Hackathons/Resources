@@ -106,7 +106,9 @@
 * [Resources for New Go Programmers](http://dave.cheney.net/resources-for-new-go-programmers)  
   Can never have too many resource lists.
 * [Let's Learn Go!](http://go-book.appspot.com)  
+  This website is an online book that aims to introduce people to this awesome language.
 * [The Little Go Book](https://github.com/karlseguin/the-little-go-book)  
+  A free book for introducing Go, conveniently housed as a git repo and in several translations.
 
 ### JavaScript
 * [JS the Right Way](http://jstherightway.org/)  
