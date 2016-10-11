@@ -43,6 +43,8 @@
   structures (uses Python).
 * [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
   A primer on machine learning for beginners, with helpful visualizations.
+* [Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)  
+  Statistical Machine Learning course from Carnegie Mellon University. Assigments, solutions, and full lecture videos.  The course covers methodology and theoretical foundations.
 
 ##### Complexity, Big-O Notation
 * [Lecture Notes - Jonathan Shewchuk](https://www.cs.berkeley.edu/~jrs/61b/lec/20)  
