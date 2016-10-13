@@ -26,6 +26,10 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
     misconception that computer science is not a career for women and minorities
     by rebranding what it means to be a technologist.
       * [Facebook Page](https://www.facebook.com/ShePlusPlus/)
+      
+  * [Stanford Society of Women Engineers (SWE)](http://swe.stanford.edu)  
+    SWE's diverse set of programming includes educational events for underrepresented academic communities in the Bay Area and membership development activities to help  collegiate members gain access to career, research, and academic opportunities. Finally, its greatest goal is to enhance diversity and academic excellence at Stanford and the Bay Area.
+      * [Facebook Page](https://www.facebook.com/stanfordswe)
 
   * [Stanford Women in Computer Science (WiCS)](http://wics.stanford.edu)  
     Stanford WiCS works to build and strengthen the community of women in CS
