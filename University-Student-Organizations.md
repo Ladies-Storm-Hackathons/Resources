@@ -10,21 +10,21 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
 
 ## USA
 
-###California
+### California
 
 #### Stanford University
   * [Girls Teaching Girls to Code](http://www.girlsteachinggirlstocode.org)  
     Girls Teaching Girls to Code is a program where Stanford women teach and
-    inspire Bay Area high school girls to explore Computer Science and Engineering.
-    Students learn programming basics, build exciting projects, and develop strong
-    relationships with mentors in the field.
+    inspire Bay Area high school girls to explore Computer Science and
+    Engineering. Students learn programming basics, build exciting projects, and
+    develop strong relationships with mentors in the field.
       * [Facebook Page](https://www.facebook.com/girlsteachinggirlstocode)
 
   * [she++](http://www.sheplusplus.com)  
     she++ works to empower underrepresented groups in technology by dismantling
     negative stereotypes surrounding technical careers.  It aims to dispel the
-    misconception that computer science is not a career for women and minorities by
-    rebranding what it means to be a technologist.
+    misconception that computer science is not a career for women and minorities
+    by rebranding what it means to be a technologist.
       * [Facebook Page](https://www.facebook.com/ShePlusPlus/)
 
   * [Stanford Women in Computer Science (WiCS)](http://wics.stanford.edu)  
@@ -32,11 +32,41 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
     raise awareness of the issues women in the field face, and encourage their
     educational and professional development.
       * [Facebook Page](https://www.facebook.com/StanfordWICS)
+      
+#### University of California, Davis
+  * [The Computer Science Club](https://www.facebook.com/groups/daviscsclub/)  
+    This Facebook group is for discussing interesting topical news and events related 
+    to the topic of Computer Science and Computer Science at UC Davis.
+  
+  * [The Society of Women Engineers at UC Davis](https://www.facebook.com/SocietyofWomenEngineersatUCDavis/?fref=ts)  
+    The local chapter here at UC Davis is free to all engineering students 
+    and provides a variety of workshops, community service, mentorship and 
+    industrial contact and outreach to engineering students.
+    
+  * [HackDavis](https://www.facebook.com/HackDavis/?fref=ts)  
+    HackDavis is the first major collegiate hackathon at UC Davis completely run by students. 
+    The theme is social good and happens annually in Winter or Spring quarter.
 
-###Iowa
+### Illinois
+
+#### Northwestern University
+
+  * [Northwestern Women in Computing (WiC)](http://eecs.northwestern.edu/wic/):  
+    WiC fosters a professional network of and community for women interested in
+    technology. Some of our initiatives include a mentorship program, weekly
+    hack nights, and local middle school outreach.
+      * [Twitter](https://twitter.com/nuwic)
+      * [Facebook](https://www.facebook.com/NUwic/)
+  * BuildHer:  
+    In April 2017, Women in Computing will host Chicago's first-ever student-run
+    women's hackathon.
+      * [Twitter](https://twitter.com/nu_buildher)
+
+### Iowa
 
 #### Iowa State University
-  * [Digital Women](http://digitalwomen.ece.iastate.edu/)  
+
+  * [Digital Women](http://digitalwomen.ece.iastate.edu/)
     Digital Women is a community of women dedicated to encouraging, supporting
     and retaining women in technical majors.
       * [Facebook Page](https://www.facebook.com/digitalwomenisu/)
@@ -114,14 +144,45 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
 ### Michigan
 
 ##### Michigan State University
- * [MSU Women in Computing (MSUWIC)](http://cse.msu.edu/msuwic/)
-   Michigan State University Women in Computing (MSUWIC) is an organization of
-   students and faculty (both men and women) who work to recruit, support and
-   retain women in computing fields.  MSUWIC is also a chapter of ACM-W.
-   * Email: [msuwic@cse.msu.edu](mailto:msuwic@cse.msu.edu)
-   * [Mailing List](http://mailman.egr.msu.edu/mailman/listinfo/cse-women)
-   * [Facebook Page](https://www.facebook.com/MSUWomenInComputing)
-   * [Facebook Group](https://www.facebook.com/groups/2306289595/)
+  * [MSU Women in Computing (MSUWIC)](http://cse.msu.edu/msuwic/)  
+    Michigan State University Women in Computing (MSUWIC) is an organization of
+    students and faculty (both men and women) who work to recruit, support and
+    retain women in computing fields.  MSUWIC is also a chapter of ACM-W.
+      * Email: [msuwic@cse.msu.edu](mailto:msuwic@cse.msu.edu)
+      * [Mailing List](http://mailman.egr.msu.edu/mailman/listinfo/cse-women)
+      * [Facebook Page](https://www.facebook.com/MSUWomenInComputing)
+      * [Facebook Group](https://www.facebook.com/groups/2306289595/)
+
+### Minnesota
+
+##### University of Minnesota - Twin Cities
+  * [Society of Women Engineers (SWE)](http://www.swe-mn.org/)  
+   University of Minnesota Society of Women Engineers (SWE)
+   is a chapter of the international SWE organization. Membership in this chapter brings with it an inclusive community of women specializing in engineering and technical careers, as well as networking, learning, scholarship, and outreach opportunities.  There are many types of membership, all require a fee.
+   * Want to become a member? Email: [membership@swe-mn.org](mailto:membership@swe-mn.org)
+   * General Questions? Email the President: [president@swe-mn.org](mailto:president@swe-mn.org)
+   * [SWE Talk Twitter ](https://twitter.com/SWEtalk?lang=en)
+
+  * [Women in Science and Engineering (WISE)](http://www.swe-mn.org/)  
+   This group is meant to act as a resource, promote inclusion and diversity, and build and strengthen community among women in the Science and Engineering college at the University of Minnesota.
+   * WISE House Email: [csewise@umn.edu](mailto:csewise@umn.edu)
+   * [Facebook Group](https://www.facebook.com/groups/826690507406051/)
+
+  * [Association for Women in Mathematics](https://gopherlink.umn.edu/organization/3345/about)
+   This group is the Minnesota Chapter of the Association for Women in Mathematics organization. The mission of this group is to promote an increased interest in Mathematics and the contributions of women in Mathematics, mentor and encourage women to pursue careers in Mathematics, and put on social events and activities for members.
+   * Email: [wimmn@umn.edu](mailto:wimmn@umn.edu)
+   * [Facebook Group](https://www.facebook.com/awmmath/)
+
+### Mississippi
+
+##### University of Southern Mississippi
+ * [USM Women in Science and Engineering (USMWISE)](https://www.usm.edu/leadership-student-involvement/college-science-and-technology-student-organizations)  
+    Women in Science and Engineering does outreach to local elementary, middle,
+    and high schools to encourage women in science in future generations.
+    Women in Science and Engineering also offers mentoring, support, networking,
+    and encouragement of WISE members.
+      * [Twitter](https://twitter.com/WISE_USM)
+      * [Facebook Group](https://www.facebook.com/groups/USMWISE/)
 
 ### New Jersey
 
@@ -144,6 +205,12 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
 
 ### New York
 
+##### Columbia University
+  * [Women in Computer Science at Columbia University (WICS)](https://cuwics.github.io/)  
+    WiCS aims to bring together women and men who support the advancement of women in computer science in academia and in industry.
+      * [Website](https://cuwics.github.io/)
+      * [Facebook Page](https://www.facebook.com/CUWICS/)
+
 ##### Cornell University
   * [Women in Computing at Cornell (WICC)](http://wicc.acm.org)  
     WICC's goal is to bring together the women in computing at Cornell. We seek
@@ -154,6 +221,18 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
       * Email: [wicc@cornell.edu](mailto:wicc@cornell.edu)
       * [Facebook Page](https://www.facebook.com/cornellwomenincomnputing)
       * [Facebook Group for members and supporters](https://www.facebook.com/groups/wiccmembers/)
+
+##### Ithaca College
+  * [Ithaca College Women In Computing (ICWC)](https://www.facebook.com/IthacaCollegeWomenInComputing/)  
+    Our goal is to support, encourage and advocate for the full engagement women
+    in computer science through social interaction, mentorship, extra education,
+    professional development, and outreach. ICWC will attend hackathons, act as
+    a study group, work on scholarship projects, volunteer in teaching younger
+    generations, and spread the word about more women getting involved in this
+    field.
+      * Email: [wicc@cornell.edu](mailto:weareicwc@gmail.com)
+      * [Facebook Page](https://www.facebook.com/IthacaCollegeWomenInComputing/)
+      * [Twitter](https://twitter.com/WeAreICWC)
 
 ##### New York University
   * [Tech @ NYU](http://techatnyu.org)  
@@ -179,7 +258,9 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
 
 ##### North Carolina State University  
   * [WiCS](http://www.wicsatncsu.org/)  
-    The mission of WICS is to support, promote, and retain women in computer science by providing opportunities for personal and professional development, social interaction, and outreach.
+    The mission of WICS is to support, promote, and retain women in computer
+    science by providing opportunities for personal and professional
+    development, social interaction, and outreach.
       * [wics.ncsu@gmail.com](mailto:wics.ncsu@gmail.com)
       * [Facebook](https://www.facebook.com/groups/ncsuwics/)
       * [@WiCS_NCSU](https://twitter.com/WiCS_NCSU)
@@ -218,7 +299,7 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
   * [Lean In at Brown](https://www.facebook.com/leaninatbrown)  
     Lean In at Brown is a chapter of LeanIn.org, committed to offering women the
     ongoing inspiration and support to help them achieve their goal.
-  * [Women in Science and Engineering](http://www.brown.edu/academics/college/support/women-in-science-and-engineering/)  
+  * [Women in Science and Engineering](http://www.brown.edu/academics/college/support/women-in-science-and-engineering/)
     WiSE helps create a community of and for women in the sciences at Brown
     University. Led by Brown science faculty, WiSE encourages women to
     concentrate in the sciences and to pursue professions and graduate study in
@@ -238,13 +319,21 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
       * [Facebook](https://www.facebook.com/groups/TAMUawics/)
 
 ##### University of Texas at Austin
-  * [Women in Computer Science] (http://www.cs.utexas.edu/~wics/)
-    Women in Computer Science at the University of Texas at Austin is a non-profit organization dedicated to building a
-    network community of women in Computer Science.
-    WiCS's mission is to encourage and support women in computing through outreach, professional development, academic    
+  * [Women in Computer Science] (http://www.cs.utexas.edu/~wics/)  
+    Women in Computer Science at the University of Texas at Austin is a
+    non-profit organization dedicated to building a network community of women
+    in Computer Science. WiCS's mission is to encourage and support women in
+    computing through outreach, professional development, academic
     initiatives, and social events.
       * [Facebook](https://www.facebook.com/groups/WiCSstudentorg/)
       * [Twitter](https://twitter.com/texaswics)
+  * [Minority Alliance in Computer Science] (http://www.cs.utexas.edu/users/macs/)  
+    Minority Alliance in Computer Science at the University of Texas at Austin
+    is a student organization whose purpose is to provide a community that
+    encourages and supports minorities in CS. MACS's mission is creating a
+    community for anyone who feels that they are an underrepresented individual
+    in computing.
+      * [Facebook](https://www.facebook.com/txmacs/)
 
 ### Washington
 
@@ -270,6 +359,16 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
     Computer Science and Software Engineering.
       * [Facebook](https://www.facebook.com/groups/witswestern/)
       * [Twitter](https://twitter.com/WiTSWestern)
+
+##### Waterloo University
+  * [Waterloo Women in Computer Science](http://wics.uwaterloo.ca/)  
+    The Waterloo Women in Computer Science Undergraduate Committee is a
+    student-run initiative that supports the success of women and non-binary
+    students in computer science at Waterloo. We run weekly events such as
+    technical talks from women in the industry, mentorship and social events,
+    hands-on workshops, and corporate networking events.
+      * [Facebook](https://www.facebook.com/wicsuw/?fref=ts)
+      * [Twitter](https://twitter.com/wicsuw)
 
 ### Québec
 
