@@ -125,6 +125,9 @@
   * [ECMAScript 6 Learning Resources by ericdouglas](https://github.com/ericdouglas/ES6-Learning)  
     Long list of articles, books, guides, talks, and other useful links.
 
+#### JavaScript frameworks
+* [Using Darth Vader to Explain React](https://medium.freecodecamp.com/code-briefing-using-darth-vader-to-explain-react-cafd5c8d2ce6#.tywy4ei49)
+
 ### Node
 * [Learn You Node](https://github.com/workshopper/learnyounode)
   An introduction to Node.js through a command line interactive course.
