@@ -100,13 +100,13 @@
 * [You Don't Know JavaScript by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
   In-depth free eBook on JavaScript.
 
-#### JavaScript frameworks
-* [Using Darth Vader to Explain React](https://medium.freecodecamp.com/code-briefing-using-darth-vader-to-explain-react-cafd5c8d2ce6#.tywy4ei49)
-
 ##### ES6-Specific
   * [ES6 Cheatsheet by Rico Sta. Cruz](http://ricostacruz.com/cheatsheets/es6.html)
   * [ECMAScript 6 Learning Resources by ericdouglas](https://github.com/ericdouglas/ES6-Learning)  
     Long list of articles, books, guides, talks, and other useful links.
+
+#### JavaScript frameworks
+* [Using Darth Vader to Explain React](https://medium.freecodecamp.com/code-briefing-using-darth-vader-to-explain-react-cafd5c8d2ce6#.tywy4ei49)
 
 ### HTML/CSS
 * [Dash by General Assembly](https://dash.generalassemb.ly)  
