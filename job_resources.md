@@ -3,7 +3,7 @@
 ### Getting a Gig
 * [Cassidy Williams' Guide for Getting a Gig](https://github.com/cassidoo/getting-a-gig)  
   Oriented towards college students.
-* [A Freshman's Guide to Tech Internships](https://docs.google.com/document/d/18XaP0nRU2fS-i-uxxWpvAy41hD_UF3rzjiJRouqF_Gc/edit)  
+* [A Freshman's Guide to Tech Internships](https://callajun.github.io/csfrosh/)  
   Specifically written for college first-years. Tons of information about what
   companies are looking for, as well as a list of freshman-specific and
   freshman-friendly programs.
