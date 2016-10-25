@@ -21,15 +21,14 @@ which may be in your first conversation with a recruiter.
 * [Women Who Code Job Board](https://www.womenwhocode.com/jobs)  
 
 ### Interviewing
-* [Front End Developer Interview Questions](http://h5bp.github.io/Front-end-Developer-Interview-Questions/)  
-  Tons of them. From HTML5 Boilerplate.
 * [Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)  
   Google recruiter-recommended article on how to prepare (long-term) for
   algorithms interviews.
 * [Tech Interview Cheat Sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)  
   Studying for a Tech Interview Sucks, so Here's a Cheat Sheet to Help
 * [Code Interview Resource Board](https://trello.com/b/lpp1l94G/code-interview-resource-board)  
-  Trello board with lists of different coding interview resources (articles, guides, books, etc.)
+  Trello board with lists of different coding interview resources (articles,
+  guides, books, etc.)
 * [100 Must Know Algorithms](https://www.quora.com/What-algorithms-and-data-structures-should-any-software-engineer-know/answer/Arun-Sahay)  
   Massive list of algorithms to brush up on
 * [More coding interview resources](https://github.com/andreis/interview)  
@@ -39,21 +38,34 @@ which may be in your first conversation with a recruiter.
 * [Job Puzzles](https://github.com/SITZ/JobPuzzles)  
   Solved Programming Challenges on website of various Companies
 * [Interview Resources](https://github.com/davidhampgonsalves/interview-resources)  
-  Long list of resources for preparing for technical computer engineering interviews
+  Long list of resources for preparing for technical computer engineering
+  interviews
 * [Code Problems](https://github.com/blakeembrey/code-problems)  
   Common code and interview problems solved in multiple languages
 * [InterviewThis](https://github.com/ChiperSoft/InterviewThis)  
   An open source list of developer questions to ask prospective employers
-* [Front End Interview Questions (That JS Dude)](https://github.com/khan4019/front-end-Interview-Questions)  
-  More front-end/js/web dev questions
-* [123 Essential JS Interview Questions](https://github.com/nishant8BITS/123-Essential-JavaScript-Interview-Question)  
-  Basically a whole book of JS interview questions
 * [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)  
-  A curated awesome list of lists of interview questions. All the languages you could think of
+  A curated awesome list of lists of interview questions. All the languages you
+  could think of
 * [How to Prepare for Tech Interviews](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)  
-  Another great guide someone posted on Reddit about how to prepare for tech interviews
+  Another great guide someone posted on Reddit about how to prepare for tech
+  interviews
 * [How to Pass a Programming Interview](http://blog.triplebyte.com/how-to-pass-a-programming-interview)  
   A guide to passing programming interviews
+
+##### Front-end and JavaScript Questions
+* [Front End Developer Interview Questions](http://h5bp.github.io/Front-end-Developer-Interview-Questions/)  
+  Tons of them. From HTML5 Boilerplate.
+* [Front End Interview Questions (That JS Dude)](https://github.com/khan4019/front-end-Interview-Questions)  
+  More front-end/JS/web dev questions
+* [123 Essential JS Interview Questions](https://github.com/nishant8BITS/123-Essential-JavaScript-Interview-Question)  
+  Basically a whole book of JS interview questions
+
+##### Back-end Questions
+* [Back-End Developer Interview Questions by tvandame](https://github.com/tvandame/back-end-developer-interview-questions)
+  Has a Korean translation
+* [Back-End Developer Interview Questions by arialdomartini](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
+  Has a Chinese translation
 
 ##### See Also
 Algorithms resources in the [Learning Resources file](learning_resources.md).
@@ -68,9 +80,9 @@ Algorithms resources in the [Learning Resources file](learning_resources.md).
   Anastasia.
 * [Bullish: How To Ask For More Money, Part I](http://www.thegrindstone.com/2012/05/04/career-management/bullish-how-to-ask-for-more-money-part-i-107/) &
   [Part II](http://www.thegrindstone.com/2012/05/11/career-management/bullish-how-to-ask-for-more-money-part-ii-757/)  
-  (Linked to in _The Negotiator_.) Drums up the mindset, specifically for women, to
-  ask for more money and explains how to go for it. This is a must-read if you're
-  not confident about asking for more money.
+  (Linked to in _The Negotiator_.) Drums up the mindset, specifically for women,
+  to ask for more money and explains how to go for it. This is a must-read if
+  you're not confident about asking for more money.
 * [Salary Negotiation: Make More Money, Be More Valued](http://www.kalzumeus.com/2012/01/23/salary-negotiation/)  
   (Linked to in _The Negotiator_.) Explains why and how all programmers should
   negotiate. Also a mindset-changer, not just a how-to.
