@@ -225,6 +225,7 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
       * Email: [wicc@cornell.edu](mailto:wicc@cornell.edu)
       * [Facebook Page](https://www.facebook.com/cornellwomenincomnputing)
       * [Facebook Group for members and supporters](https://www.facebook.com/groups/wiccmembers/)
+      * [Public resources from our workshops](http://wicc.acm.org/workshops.php)
 
 ##### Ithaca College
   * [Ithaca College Women In Computing (ICWC)](https://www.facebook.com/IthacaCollegeWomenInComputing/)  
