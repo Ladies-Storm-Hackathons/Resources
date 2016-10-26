@@ -16,6 +16,7 @@ Negotiation starts when you're asked for your previous and/or expected salary,
 which may be in your first conversation with a recruiter.
 
 ### Opportunities
+* [Intern Supply](http://www.intern.supply/)
 * [Sudo Hoot Job Board](http://jobs.sudohoot.com/)  
 * [Tech Ladies Job Board](http://www.hiretechladies.com/browse-jobs)  
 * [Women Who Code Job Board](https://www.womenwhocode.com/jobs)  
@@ -52,6 +53,8 @@ which may be in your first conversation with a recruiter.
   interviews
 * [How to Pass a Programming Interview](http://blog.triplebyte.com/how-to-pass-a-programming-interview)  
   A guide to passing programming interviews
+* [Visual Algos](https://visualgo.net/)   
+  Helpful visualizations for algorithms for those people who are more inclined to learn visually
 
 ##### Front-end and JavaScript Questions
 * [Front End Developer Interview Questions](http://h5bp.github.io/Front-end-Developer-Interview-Questions/)  
