@@ -53,8 +53,6 @@ which may be in your first conversation with a recruiter.
   interviews
 * [How to Pass a Programming Interview](http://blog.triplebyte.com/how-to-pass-a-programming-interview)  
   A guide to passing programming interviews
-* [Visual Algos](https://visualgo.net/)   
-  Helpful visualizations for algorithms for those people who are more inclined to learn visually
 
 ##### Front-end and JavaScript Questions
 * [Front End Developer Interview Questions](http://h5bp.github.io/Front-end-Developer-Interview-Questions/)  
