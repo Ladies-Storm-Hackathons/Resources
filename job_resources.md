@@ -16,6 +16,7 @@ Negotiation starts when you're asked for your previous and/or expected salary,
 which may be in your first conversation with a recruiter.
 
 ### Opportunities
+* [Intern Supply](http://www.intern.supply/)
 * [Sudo Hoot Job Board](http://jobs.sudohoot.com/)  
 * [Tech Ladies Job Board](http://www.hiretechladies.com/browse-jobs)  
 * [Women Who Code Job Board](https://www.womenwhocode.com/jobs)  
