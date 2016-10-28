@@ -5,11 +5,12 @@ Crowdsourced list of all women's hackathons and other events promoting women in 
 ## January
 
 ## February
-<a href="http://hackhers.us">HackHERS</a> (New Brunswick, NJ) - date will be released shortly
+<a href="http://hackhers.us">HackHERS</a> (New Brunswick, NJ): date will be released shortly
 
 ## March
 
 ## April
+BuildHer @ Northwestern University: April 7-8
 
 ## May
 
