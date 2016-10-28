@@ -5,13 +5,14 @@ Crowdsourced list of all women's hackathons and other events promoting women in 
 ## January
 
 ## February
-<a href="http://www.wecodeharvard.com/"> WECode </a> @ Harvard: February 4-5, 2017 (according to Facebook)
-<a href="http://hackhers.us">HackHERS</a> (New Brunswick, NJ): date will be released shortly
+* [WECode](http://www.wecodeharvard.com/) @ Harvard: February 4-5, 2017
+  * Date announced in a [Facebook Post](https://www.facebook.com/harvardwecode/posts/642752059233551)
+* [HackHERS](http://hackhers.us) (New Brunswick, NJ): date will be released shortly
 
 ## March
 
 ## April
-BuildHer @ Northwestern University: April 7-8
+* BuildHer @ Northwestern University: April 7-8
 
 ## May
 
