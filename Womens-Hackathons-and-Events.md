@@ -9,6 +9,8 @@ Crowdsourced list of all women's hackathons and other events promoting women in 
    * Dates: Sat, Nov 19, 2016, 9:00 AM – Sun, Nov 20, 2016, 6:00 PM EST
    * Use code: `AngelNew` to get free tickets. 
 
+## Dec 2016
+
 ## January 2017
 
 ## February 2017
@@ -25,14 +27,14 @@ Crowdsourced list of all women's hackathons and other events promoting women in 
 
 ## June 2017
 
-## July
+## July 2017
 
-## August
+## August 2017
 
-## September
+## September 2017
 
-## October
+## October 2017
 
-## November
+## November 2017
 
-## December
+## December 2017
