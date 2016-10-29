@@ -28,5 +28,6 @@ Crowdsourced list of all women's hackathons and other events promoting women in 
 * [OPW](https://gnome.org/opw/): Outreach Program for Women, Related to Gsoc
 
 ## November
+* [Technica](http://gotechnica.org/) @ University of Maryland: Nov 5-6, 2016
 
 ## December
