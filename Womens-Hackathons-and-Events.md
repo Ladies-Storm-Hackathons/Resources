@@ -45,6 +45,8 @@ Crowdsourced list of all women's hackathons and other events promoting women in 
 *	[ANDROID LAB](http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvqbkc/)	w/ Women Who Code (Washington, DC): Dec. 27, 2016
 * [RUBY ON RAILS](http://www.meetup.com/Women-Who-Code-DC/events/bmvvbmyvqblc/)	w/ Women Who Code (Washington, DC): Dec. 28, 2016
 
+## Dec 2016
+
 ## January 2017
 * [ANDROID LAB](http://www.meetup.com/Women-Who-Code-DC/events/233363907/)	w/ Women Who Code (Washington, DC): Jan. 3, 2017
 * [RUBY ON RAILS: BEGINNERS NIGHT!](http://www.meetup.com/Women-Who-Code-DC/events/228457143/)	w/ Women Who Code (Washington, DC): Jan. 4, 2017
@@ -75,8 +77,14 @@ Crowdsourced list of all women's hackathons and other events promoting women in 
 
 ## June 2017
 
-## July
+## July 2017
 
-## August
+## August 2017
 
-## September
+## September 2017
+
+## October 2017
+
+## November 2017
+
+## December 2017
