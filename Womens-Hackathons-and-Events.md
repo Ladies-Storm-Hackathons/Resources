@@ -25,6 +25,7 @@ Crowdsourced list of all women's hackathons and other events promoting women in 
 ## September
 
 ## October
+* [OPW](https://gnome.org/opw/): Outreach Program for Women, Related to Gsoc
 
 ## November
 
