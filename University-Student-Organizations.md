@@ -250,6 +250,15 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
     providing an environment to encourage them and activities to inspire them.
       * [Facebook](https://www.facebook.com/groups/wincnyu/)
 
+##### Rochester Institute of Technology (RIT)
+  * [Women in Computing (WiC)](http://wic.rit.edu/index.php)  
+    Women in Computing at Rochester Institute of Technology is dedicated to promoting the success and advancement of women in their
+    academic and professional careers. Lana Verschage, the Director of Women in Computing, works with all WiC Committee Leaders, active
+    members and members. Our ultimate goal is to empower women in computer fields to succeed and thrive at Rochester Institute of
+    Technology and beyond.
+      * [Facebook](https://www.facebook.com/WICATRIT)
+      * [Twitter](https://twitter.com/RITWIC)
+      * [Instagram](https://www.instagram.com/rit_wic/)
 
 ### North Carolina
 
