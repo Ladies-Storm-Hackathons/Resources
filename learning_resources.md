@@ -169,7 +169,6 @@
   * [The Flask Mega-Tutorial by Miguel](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 ##### Rails
   * [Rails Documentation](http://guides.rubyonrails.org/getting_started.html)
-  * [Github repo](https://github.com/rails/rails)
 
 ### Databases/SQL
 * [Learn SQL by Codecademy](https://www.codecademy.com/en/courses/learn-sql/)
