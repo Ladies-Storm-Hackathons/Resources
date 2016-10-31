@@ -24,6 +24,13 @@ that have to contain long URL's.
 Note that each bullet-pointed link has two trailing spaces, to induce a line
 break in Markdown.
 
+For new files, let's use Train-Case (capitalize each word, separate words with
+hyphens). Example: `New-File.md`
+
+Please no tab characters; they sometimes format as Code Blocks. Please use 2
+space characters. We have an `~/.editorconfig` to keep our many text editors on
+the same page.
+
 ## On Commit Messages
 
 Please write descriptive commit messages. A message that says "Added
