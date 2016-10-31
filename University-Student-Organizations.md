@@ -347,7 +347,13 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
     encourages and supports minorities in CS. MACS's mission is creating a
     community for anyone who feels that they are an underrepresented individual
     in computing.
-      * [Facebook](https://www.facebook.com/txmacs/)
+      * [Facebook](https://www.facebook.com/txmacs/)   
+  * [UTCS Lean-In] (https://www.cs.utexas.edu/~meg1022/leanin/index.html)  
+    UTCS's Lean in chapter provides students with a place to support women and men through 
+    community, education, and discussion. Lean In Circles are small groups who meet regularly to
+    learn and grow together, and they're changing lives. People are asking for more, stepping 
+    outside their comfort zones, and leaning in. 
+      * [Facebook](https://www.facebook.com/groups/utcsleanin/)
 
 ### Washington
 
