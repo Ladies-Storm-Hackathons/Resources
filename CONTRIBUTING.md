@@ -8,8 +8,7 @@ If you don't know how to use Git but still want to contribute, the Pencil Edit
 icon allows you to edit a file and submit a PR all through the web interface.
 Alternatively, open up an issue, or send me an email via
 [aliceyoung.9@gmail.com](aliceyoung.9@gmail.com). Another option would be to
-check out our
-[Git Resources](https://github.com/Ladies-Storm-Hackathons/Resources/blob/master/learning_resources.md#git).
+check out our [Git Resources](Learning-Resources.md#git).
 
 I will not merge any PR with compiled lists of female engineers (mentor lists,
 etc.), because this is a publicly accessible repository and there's no way to

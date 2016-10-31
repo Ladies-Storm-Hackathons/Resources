@@ -1,11 +1,11 @@
 # Resources
 
-## [Learning Resources](learning_resources.md)
+## [Learning Resources](Learning-Resources.md)
 
 Go here for anything related to learning about programming topics or anything
 else in the tech family.
 
-## [Job Resources](job_resources.md)
+## [Job Resources](Job-Resources.md)
 
 Go here for anything related to getting a gig, interviewing, or negotiating.
 
@@ -14,7 +14,9 @@ Go here for anything related to getting a gig, interviewing, or negotiating.
 This is a growing list of student organizations that focus on diversity in
 CS/Tech/STEM at large.
 
-**Looking to start a diversity in tech/STEM organization?** Check out the [How To Start a Tech Mentorship Program](https://github.com/Ladies-Storm-Hackathons/Resources/blob/master/HowTo-Tech-Mentorship.md) guide for some cool ideas.
+**Looking to start a diversity in tech/STEM organization?** Check out the
+[How To Start a Tech Mentorship Program](HowTo-Tech-Mentorship.md) guide for
+some cool ideas.
 
 ## [Women's Hackathons & Events](Womens-Hackathons-and-Events.md)
 
