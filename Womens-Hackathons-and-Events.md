@@ -21,6 +21,7 @@ Crowdsourced list of all women's hackathons and other events promoting women in 
 * [WECode](http://www.wecodeharvard.com/) @ Harvard: February 4-5, 2017
   * Date announced in a [Facebook Post](https://www.facebook.com/harvardwecode/posts/642752059233551)
 * [HackHERS](http://hackhers.us) (New Brunswick, NJ): date will be released shortly
+* [WiCHacks](http://wic-hacks.rit.edu/) (Rochester, NY): February 25-26, 2017
 
 ## March
 
