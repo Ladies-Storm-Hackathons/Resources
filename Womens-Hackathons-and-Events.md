@@ -4,7 +4,7 @@ Crowdsourced list of all women's hackathons and other events promoting women in 
 
 ## October 2016
 * [OPW](https://gnome.org/opw/): Outreach Program for Women, Related to Gsoc
-* [CODE + COSTUME: Front End Lab](http://www.meetup.com/Women-Who-Code-DC/events/235080762/) w/ Women Who Code (Washington, DC): Oct. 31, 2016
+* [Code + Costume: Front End Lab](http://www.meetup.com/Women-Who-Code-DC/events/235080762/) w/ Women Who Code (Washington, DC): Oct. 31, 2016
 
 ## November 2016
 * [Technica](http://gotechnica.org/) @ University of Maryland: Nov 5-6, 2016
@@ -18,19 +18,19 @@ Crowdsourced list of all women's hackathons and other events promoting women in 
 * [Android Lab](http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvpbtb/) w/ Women Who Code (Washington, DC): Nov. 15, 2016
 * [Python - Hack Night](http://www.meetup.com/Women-Who-Code-DC/events/227736620/) w/ Women Who Code (Washington, DC): Nov. 16, 2016
 * [Ruby On Rails](http://www.meetup.com/Women-Who-Code-DC/events/bmvvbmyvpbvb/) w/ Women Who Code (Washington, DC): Nov. 16, 2016
-* [TECH TALK: ACCESSIBILITY FOR THE MODERN WEB](http://www.meetup.com/Women-Who-Code-DC/events/233373539/) w/ Women Who Code (Washington, DC): Nov. 17, 2016
+* [Tech Talk: Accessibility For The Modern Web](http://www.meetup.com/Women-Who-Code-DC/events/233373539/) w/ Women Who Code (Washington, DC): Nov. 17, 2016
 * [Lady Problems Hackathon - Boston](https://www.eventbrite.com/e/lady-problems-hackathon-boston-tickets-27716935099)
    * Dates: Sat, Nov 19, 2016, 9:00 AM – Sun, Nov 20, 2016, 6:00 PM EST
    * Use code: `AngelNew` to get free tickets.
-* [PROFESSIONAL NETWORKING BRUNCH](http://www.meetup.com/Women-Who-Code-DC/events/235095324/) w/ Women Who Code (Washington, DC): Nov. 20, 2016
+* [Professional Networking Brunch](http://www.meetup.com/Women-Who-Code-DC/events/235095324/) w/ Women Who Code (Washington, DC): Nov. 20, 2016
 * [Front End Lab](http://www.meetup.com/Women-Who-Code-DC/events/233677405/) w/ Women Who Code (Washington, DC): Nov. 21, 2016
 * [Android Lab](http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvpbdc/) w/ Women Who Code (Washington, DC): Nov. 22, 2016
 * [Front End Hack Night](http://www.meetup.com/Women-Who-Code-DC/events/233475060/) w/ Women Who Code (Washington, DC): Nov. 28, 2016
 * [Android Lab](http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvpbmc/) w/ Women Who Code (Washington, DC): Nov. 29, 2016
-* [Ruby On Rails] (http://www.meetup.com/Women-Who-Code-DC/events/bmvvbmyvpbnc/) w/ Women Who Code (Washington, DC): Nov. 30, 2016
+* [Ruby On Rails](http://www.meetup.com/Women-Who-Code-DC/events/bmvvbmyvpbnc/) w/ Women Who Code (Washington, DC): Nov. 30, 2016
 
 ## December 2016
-* [Front End Lab - FIRST TIMER'S Night](http://www.meetup.com/Women-Who-Code-DC/events/232450487/) w/ Women Who Code (Washington, DC): Dec. 5, 2016
+* [Front End Lab - First Timer's Night](http://www.meetup.com/Women-Who-Code-DC/events/232450487/) w/ Women Who Code (Washington, DC): Dec. 5, 2016
 * [Android Lab](http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlyvqbjb/) w/ Women Who Code (Washington, DC): Dec. 6, 2016
 * [Ruby On Rails: Beginner's Night!](http://www.meetup.com/Women-Who-Code-DC/events/228457078/) w/ Women Who Code (Washington, DC): Dec. 7, 2016
 * [Python Beginner's Night](http://www.meetup.com/Women-Who-Code-DC/events/227387935/) w/ Women Who Code (Washington, DC): Dec. 7, 2016
