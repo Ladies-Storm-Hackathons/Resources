@@ -167,6 +167,8 @@
 ##### Flask
   * [Flask Documentation](http://flask.pocoo.org/docs/0.11/)
   * [The Flask Mega-Tutorial by Miguel](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+##### Rails
+  * [Rails Documentation](http://guides.rubyonrails.org/getting_started.html)
 
 ### Databases/SQL
 * [Learn SQL by Codecademy](https://www.codecademy.com/en/courses/learn-sql/)
@@ -176,6 +178,7 @@
   Learn about more complex SQL queries with a series of exercises.
 * [Intro to SQL by Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)  
   Learn how to use SQL to store, query, and manipulate data. They also have an [SQL sandbox](https://www.khanacademy.org/computer-programming/new/sql).  
+ * [MongoDB Tutorial](https://www.tutorialspoint.com/mongodb/) Learn how to get started using MongoDB.
 
 ### Engineering
 * [Latency Numbers Every Engineer Should Know](https://quizlet.com/91957128/latency-numbers-every-programmer-should-know-flash-cards/)  

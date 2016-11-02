@@ -69,7 +69,7 @@ which may be in your first conversation with a recruiter.
   Has a Chinese translation
 
 ##### See Also
-Algorithms resources in the [Learning Resources file](learning_resources.md).
+Algorithms resources in the [Learning Resources file](Learning-Resources.md).
 
 ### Negotiating
 * [15 Rules for Negotiating a Job Offer](https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer)  

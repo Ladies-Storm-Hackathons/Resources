@@ -250,6 +250,15 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
     providing an environment to encourage them and activities to inspire them.
       * [Facebook](https://www.facebook.com/groups/wincnyu/)
 
+##### Rochester Institute of Technology (RIT)
+  * [Women in Computing (WiC)](http://wic.rit.edu/index.php)  
+    Women in Computing at Rochester Institute of Technology is dedicated to promoting the success and advancement of women in their
+    academic and professional careers. Lana Verschage, the Director of Women in Computing, works with all WiC Committee Leaders, active
+    members and members. Our ultimate goal is to empower women in computer fields to succeed and thrive at Rochester Institute of
+    Technology and beyond.
+      * [Facebook](https://www.facebook.com/WICATRIT)
+      * [Twitter](https://twitter.com/RITWIC)
+      * [Instagram](https://www.instagram.com/rit_wic/)
 
 ### North Carolina
 
@@ -338,7 +347,13 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
     encourages and supports minorities in CS. MACS's mission is creating a
     community for anyone who feels that they are an underrepresented individual
     in computing.
-      * [Facebook](https://www.facebook.com/txmacs/)
+      * [Facebook](https://www.facebook.com/txmacs/)   
+  * [UTCS Lean-In] (https://www.cs.utexas.edu/~meg1022/leanin/index.html)  
+    UTCS's Lean in chapter provides students with a place to support women and men through 
+    community, education, and discussion. Lean In Circles are small groups who meet regularly to
+    learn and grow together, and they're changing lives. People are asking for more, stepping 
+    outside their comfort zones, and leaning in. 
+      * [Facebook](https://www.facebook.com/groups/utcsleanin/)
 
 ### Washington
 
