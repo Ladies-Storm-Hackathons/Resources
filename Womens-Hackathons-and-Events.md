@@ -2,18 +2,6 @@
 
 Crowdsourced list of all women's hackathons and other events promoting women in tech. Contributions welcome! Create a PR or contact [@alainakafkes](https://github.com/alainakafkes) to update.
 
-<<<<<<< HEAD
-## Oct 2016
-
-## Nov 2016
-* [Lady Problems Hackathon - Boston](https://www.eventbrite.com/e/lady-problems-hackathon-boston-tickets-27716935099) 
-   * Dates: Sat, Nov 19, 2016, 9:00 AM – Sun, Nov 20, 2016, 6:00 PM EST
-   * Use code: `AngelNew` to get free tickets. 
-
-## Dec 2016
-
-## January 2017
-=======
 ## October 2016
 * [OPW](https://gnome.org/opw/): Outreach Program for Women, Related to Gsoc
 * [Code + Costume: Front End Lab](http://www.meetup.com/Women-Who-Code-DC/events/235080762/) w/ Women Who Code (Washington, DC): Oct. 31, 2016
@@ -71,7 +59,6 @@ Crowdsourced list of all women's hackathons and other events promoting women in 
 * [Front End Hack Night](http://www.meetup.com/Women-Who-Code-DC/events/233475067/) w/ Women Who Code (Washington, DC): Jan. 23, 2017
 * [Android Lab](http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlywcbgc/) w/ Women Who Code (Washington, DC): Jan. 24, 2017
 * [Ruby On Rails](http://www.meetup.com/Women-Who-Code-DC/events/snvvbmywcbhc/) w/ Women Who Code (Washington, DC): Jan. 25, 2017
->>>>>>> Ladies-Storm-Hackathons/master
 
 ## February 2017
 * [WECode](http://www.wecodeharvard.com/) @ Harvard: February 4-5, 2017
