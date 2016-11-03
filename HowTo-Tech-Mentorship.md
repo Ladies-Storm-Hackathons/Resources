@@ -1,7 +1,7 @@
 # How to Start a Tech Mentorship Program
 
 ### Motivation
-As a TA for an introductory CS class, I noticed that a lot of my students -- especially the females -- lacked a mentor to help guide them up the steep learning curve that is entering tech. Role models are important, but having someone to answer your questions, understand your concerns, and advise you normalizes beginner feelings of uncertainty and inadequacy.
+As a TA for an introductory CS class, I noticed that a lot of my students -- especially the women -- lacked a mentor to help guide them up the steep learning curve that is entering tech. Role models are important, but having someone to answer your questions, understand your concerns, and advise you normalizes beginner feelings of uncertainty and inadequacy.
 Under the umbrella of [Northwestern Women in Computing](http://eecs.northwestern.edu/wic/), I started a women in tech mentorship program last March. I want to share with you how I did it, and what I've learned along the way from trial & error and participant feedback.
 
 ### Disclaimer

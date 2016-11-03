@@ -26,7 +26,7 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
     misconception that computer science is not a career for women and minorities
     by rebranding what it means to be a technologist.
       * [Facebook Page](https://www.facebook.com/ShePlusPlus/)
-      
+
   * [Stanford Society of Women Engineers (SWE)](http://swe.stanford.edu)  
     SWE's diverse set of programming includes educational events for underrepresented academic communities in the Bay Area and membership development activities to help  collegiate members gain access to career, research, and academic opportunities. Finally, its greatest goal is to enhance diversity and academic excellence at Stanford and the Bay Area.
       * [Facebook Page](https://www.facebook.com/stanfordswe)
@@ -36,19 +36,19 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
     raise awareness of the issues women in the field face, and encourage their
     educational and professional development.
       * [Facebook Page](https://www.facebook.com/StanfordWICS)
-      
+
 #### University of California, Davis
   * [The Computer Science Club](https://www.facebook.com/groups/daviscsclub/)  
-    This Facebook group is for discussing interesting topical news and events related 
+    This Facebook group is for discussing interesting topical news and events related
     to the topic of Computer Science and Computer Science at UC Davis.
-  
+
   * [The Society of Women Engineers at UC Davis](https://www.facebook.com/SocietyofWomenEngineersatUCDavis/?fref=ts)  
-    The local chapter here at UC Davis is free to all engineering students 
-    and provides a variety of workshops, community service, mentorship and 
+    The local chapter here at UC Davis is free to all engineering students
+    and provides a variety of workshops, community service, mentorship and
     industrial contact and outreach to engineering students.
-    
+
   * [HackDavis](https://www.facebook.com/HackDavis/?fref=ts)  
-    HackDavis is the first major collegiate hackathon at UC Davis completely run by students. 
+    HackDavis is the first major collegiate hackathon at UC Davis completely run by students.
     The theme is social good and happens annually in Winter or Spring quarter.
 
 ### Illinois
@@ -128,10 +128,10 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
       * [Twitter NUGWC](https://twitter.com/nu_gwc)
       * [Facebook NUGWC](https://www.facebook.com/groups/GradWomenCoders/)
       * [Instagram NUGWC](https://www.instagram.com/nugradwomencoders/)
-      
+
   * [nuWiT](http://nuwit.ccs.neu.edu/) (formerly known as CISters)  
     nuWiT is a student group at Northeastern University created with the
-    intention of supporting and connecting females who are studying or
+    intention of supporting and connecting women who are studying or
     interested in the fields of Computer and Information Science.
       * Email: [nuwit-officers@ccs.neu.edu](mailto:nuwit-officers@ccs.neu.edu)
       * [@nuWomenInTech](https://twitter.com/nuWomenInTech)
@@ -356,10 +356,10 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
     in computing.
       * [Facebook](https://www.facebook.com/txmacs/)   
   * [UTCS Lean-In] (https://www.cs.utexas.edu/~meg1022/leanin/index.html)  
-    UTCS's Lean in chapter provides students with a place to support women and men through 
+    UTCS's Lean in chapter provides students with a place to support women and men through
     community, education, and discussion. Lean In Circles are small groups who meet regularly to
-    learn and grow together, and they're changing lives. People are asking for more, stepping 
-    outside their comfort zones, and leaning in. 
+    learn and grow together, and they're changing lives. People are asking for more, stepping
+    outside their comfort zones, and leaning in.
       * [Facebook](https://www.facebook.com/groups/utcsleanin/)
 
 ### Washington
