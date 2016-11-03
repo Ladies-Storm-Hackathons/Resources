@@ -122,6 +122,13 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
       * [Facebook](https://www.facebook.com/mhcompsci)
 
 ##### Northeastern University
+  * [NUGWC](https://gradwomencoders.hackpad.com/)
+    NU Grad Women Coders aims to create a conducive environment for women in tech to help each other further their ambitions and take on leadership roles in the tech world. They host weekly tech sessions by members of the community and inspiring external guests from Boston tech hub. They work on projects around campus to help solve problems using technology. They share information about and attend Hackathons and other tech events happening around town. They also have sessions on interview preparation and resume reviews. This group is open to all women in tech and their supporters.
+      * Email: [nugwc-organizers@lists.ccs.neu.edu](mailto:nugwc-organizers@lists.ccs.neu.edu)
+      * [Twitter NUGWC](https://twitter.com/nu_gwc)
+      * [Facebook NUGWC](https://www.facebook.com/groups/GradWomenCoders/)
+      * [Instagram NUGWC](https://www.instagram.com/nugradwomencoders/)
+      
   * [nuWiT](http://nuwit.ccs.neu.edu/) (formerly known as CISters)  
     nuWiT is a student group at Northeastern University created with the
     intention of supporting and connecting females who are studying or
