@@ -1,5 +1,28 @@
 # Learning Resources
 
+### Table of Contents
+- [Interactive Programming Tutorials](#interactive-programming-tutorials)
+- [Command Line](#command-line)
+- [Algorithms](#algorithms)
+    - [Complexity/Big-O Notation](#complexity-big-o-notation)
+- [Git](#Git)
+- [Languages](#languages)
+    - [Python](#python)
+    - [Ruby](#Ruby)
+    - [Go](#Go)
+    - [Javascript](#javascript)
+    - [ES6-Specific](#es6-specific)
+    - [HTML/CSS](#htmlcss)
+- [Web Frameworks](#web-frameworks)
+    - [Django](#django)
+    - [Flask](#flask)
+    - [Rails](#rails)
+- [UI Design, Product Design, and UX](#ui-design-product-design-and-ux)
+    - [Visual Design: Color](#visual-design-color)
+- [Databases/SQL](#databasessql)
+- [Engineering](#engineering)
+- [Functional Programming](#functional-programming)
+
 ### Interactive Programming Tutorials
 * [NodeSchool](http://nodeschool.io/)  
   Contains essential skills for working with Node.js
@@ -87,13 +110,15 @@
 * [Introduction to Git Commits](https://pcottle.github.io/learnGitBranching/)   
   Step by Step interactive guide to learning how Github works and using Git commands.
 
-### Python
+### Language-Specific
+
+#### Python
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)  
   An opinionated and thorough guide for getting started in Python.
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)  
   A thorough guide to Python, great for people who have never programmed before.
 
-### Ruby
+#### Ruby
 * [Try Ruby by Code School](http://tryruby.org/levels/1/challenges/0)  
   Learn the basics of Ruby in the browser.
 * [Learn to Program by Chris Pine](https://pine.fm/LearnToProgram/)  
@@ -103,7 +128,7 @@
 * [Ruby Programming](http://www.theodinproject.com/ruby-programming)  
   Guided resources from various sites for learning ruby and completing your first projects with next steps once you are finished.
 
-### Go
+#### Go
 * [Go Training by William Kennedy](https://github.com/gobridge/gotraining)  
   While intended for in-person learning, the course material includes notes,
   examples, exercises, and links to other resources.
@@ -114,7 +139,7 @@
 * [The Little Go Book](https://github.com/karlseguin/the-little-go-book)  
   A free book for introducing Go, conveniently housed as a git repo and in several translations.
 
-### JavaScript
+#### JavaScript
 * [JS the Right Way](http://jstherightway.org/)  
   A guide intended to introduce new developers to JavaScript.
 * [Eloquent JavaScript](http://eloquentjavascript.net/)  
@@ -122,7 +147,7 @@
 * [You Don't Know JavaScript by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
   In-depth free eBook on JavaScript.
 
-##### ES6-Specific
+###### ES6-Specific
   * [ES6 Cheatsheet by Rico Sta. Cruz](http://ricostacruz.com/cheatsheets/es6.html)
   * [ECMAScript 6 Learning Resources by ericdouglas](https://github.com/ericdouglas/ES6-Learning)  
     Long list of articles, books, guides, talks, and other useful links.
@@ -130,7 +155,7 @@
 #### JavaScript frameworks
 * [Using Darth Vader to Explain React](https://medium.freecodecamp.com/code-briefing-using-darth-vader-to-explain-react-cafd5c8d2ce6#.tywy4ei49)
 
-### Node
+##### Node
 * [Learn You Node](https://github.com/workshopper/learnyounode)
   An introduction to Node.js through a command line interactive course.
 
@@ -147,6 +172,24 @@
 * [Magic of CSS by Adam Schwartz](http://adamschwartz.co/magic-of-css/)  
   A CSS course that demystifies some concepts of CSS.
 
+### Web Frameworks
+##### Django
+  * [The Django Book](http://djangobook.com/)
+  * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/index.html)
+  * [Django documentation](https://docs.djangoproject.com/en/1.10/)
+  * [Deploy Python and Django Apps to Heroku](https://devcenter.heroku.com/articles/deploying-python)
+
+##### Flask
+  * [Flask Documentation](http://flask.pocoo.org/docs/0.11/)
+  * [The Flask Mega-Tutorial by Miguel](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+  * [OpenTechSchool](http://opentechschool.github.io/python-flask/)
+  For those who already know a little Python but know little to no HTML.
+##### Rails
+  * [Rails Documentation](http://guides.rubyonrails.org/getting_started.html)
+  * [Rails Girls](http://railsgirls.com/)
+  Check under Guides for step-by-step tutorials on building your first app. Available in 11 languages.
+
+
 ### UI Design, Product Design, and UX
 * [Open Web BU's Resource Page](http://openwebbu.org/resources)  
   A bunch of resources for learning, prototyping, and designing. Sections are
@@ -157,18 +200,6 @@
   * [HTML Color Codes by Dixon & Moe](http://htmlcolorcodes.com/)  
     Basic color theory principles, color charts, a list of recognized named HTML Colors, as well as
     tutorials for leveraging color in HTML/CSS/Sass.
-
-### Web Frameworks
-##### Django
-  * [The Django Book](http://djangobook.com/)
-  * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/index.html)
-  * [Django documentation](https://docs.djangoproject.com/en/1.10/)
-
-##### Flask
-  * [Flask Documentation](http://flask.pocoo.org/docs/0.11/)
-  * [The Flask Mega-Tutorial by Miguel](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-##### Rails
-  * [Rails Documentation](http://guides.rubyonrails.org/getting_started.html)
 
 ### Databases/SQL
 * [Learn SQL by Codecademy](https://www.codecademy.com/en/courses/learn-sql/)
@@ -190,3 +221,4 @@
   As the authors state, Haskell is not a difficult language to use. Haskell is
   difficult to teach effectively. This book makes learning Haskell a joy. The first
   chapter of the book is free, then the book is $59.
+
