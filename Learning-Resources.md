@@ -177,12 +177,18 @@
   * [The Django Book](http://djangobook.com/)
   * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/index.html)
   * [Django documentation](https://docs.djangoproject.com/en/1.10/)
+  * [Deploy Python and Django Apps to Heroku](https://devcenter.heroku.com/articles/deploying-python)
 
 ##### Flask
   * [Flask Documentation](http://flask.pocoo.org/docs/0.11/)
   * [The Flask Mega-Tutorial by Miguel](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+  * [OpenTechSchool](http://opentechschool.github.io/python-flask/)
+  For those who already know a little Python but know little to no HTML.
 ##### Rails
   * [Rails Documentation](http://guides.rubyonrails.org/getting_started.html)
+  * [Rails Girls](http://railsgirls.com/)
+  Check under Guides for step-by-step tutorials on building your first app. Available in 11 languages.
+
 
 ### UI Design, Product Design, and UX
 * [Open Web BU's Resource Page](http://openwebbu.org/resources)  
