@@ -22,6 +22,10 @@ some cool ideas.
 
 This is a crowdsourced list of women's hackathons & other events that are women-in-tech-centric.
 
+## Miscellaneous
+
+**Want to get back into reading?** Check out some [books recommended by the LSH fam](Bookshelf.md).
+
 ## About This Repo
 
 License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/)

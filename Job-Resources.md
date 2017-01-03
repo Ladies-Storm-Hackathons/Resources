@@ -100,3 +100,30 @@ Algorithms resources in the [Learning Resources file](Learning-Resources.md).
 * [H1B Salary Database](http://h1bdata.info)  
 * [Comparably](https://www.comparably.com/)  
 * [PayScale](http://www.payscale.com/)  
+
+### Picking an Offer
+* [80,000 Hours' Make a Decision Tool](https://80000hours.org/career-decision/)          
+  This is a decision-making tool which prompts you with reflective questions to
+  cut past bad intuition and identify where you need more information before
+  making a final decision.
+* [Questions to Ask Interviewers](http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)                                              
+  These are great questions to ask at the end of an interview, or when you're
+  deciding among offers.
+* [The Open Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation)                                                          
+  This clears away the confusion around stock compensation, and lets you
+  understand exactly what you're being offered. Then, using the ideas and
+  tactics learned from the negotiation articles above, you can get more.
+* [How Startup Options (and Ownership) Works](http://a16z.com/2016/08/24/options-ownership/)                                                              
+  Equity at start-ups is potentially even more confusing, and yet even more
+  crucial (since early-stage start-ups often offer smaller salaries or none at
+  all). Learn about how start-up options work, and the surprising/disastrous
+  effects that venture capitalists' terms can have on your own end payout.
+
+### Making the Most of Your New Job
+* [How to succeed at your software engineering internship](http://www.byte-by-byte.com/software-engineering-internship-success/)                   
+  Congrats on the internship! Now learn how to make the most of it.
+* [Jr. Developer series](https://medium.com/@mscccc/jr-developers-0-hello-world-dd1d4a2a098c#.2szbl2g15)                             
+  So you've conquered the internship hurdle and are now at your first full-time
+  tech job. It's normal to feel overwhelmed. Here's cheerful advice on how
+  to get past those mental hurdles and get things done.
+
