@@ -19,9 +19,10 @@ tech. Contributions welcome! Create a PR or contact
 * [Ruby On Rails](http://www.meetup.com/Women-Who-Code-DC/events/snvvbmywcbhc/) w/ Women Who Code (Washington, DC): Jan. 25, 2017
 
 ## February 2017
-* [WECode](http://www.wecodeharvard.com/) @ Harvard: February 4-5, 2017
+* [WECode](http://www.wecodeharvard.com/) (Harvard College, Boston, MA): February 4-5, 2017
   * Date announced in a [Facebook Post](https://www.facebook.com/harvardwecode/posts/642752059233551)
-* [HackHERS](http://hackhers.us) (New Brunswick, NJ): date will be released shortly
+* [WHACK](http://wellesleyhacks.org/) (Wellesley, MA) : February 11-12, 2017
+* [HackHERS](http://hackhers.us) (New Brunswick, NJ): February 18-19, 2017
 * [WiCHacks](http://wic-hacks.rit.edu/) (Rochester, NY): February 25-26, 2017
 
 ## March 2017
