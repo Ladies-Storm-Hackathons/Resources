@@ -70,6 +70,7 @@ Crowdsourced list of all women's hackathons and other events promoting women in 
 
 ## April 2017
 * BuildHer @ Northwestern University: April 7-8
+* [AthenaHacks](http://athenahacks.com) (University of Southern California): April 8-9
 
 ## May 2017
 
