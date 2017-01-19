@@ -19,6 +19,7 @@ Happy reading, fam.
 - Roy, Arundhati: *The God of Small Things*
 - Singh, Simon: *The Code Book*
 - Smith, Zadie: *White Teeth*
+- Wheeler, Tarah: *Women In Tech*
 - Yanahigara, Hanya: *A Little Life*
 
 ## Contributing :new:
