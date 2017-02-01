@@ -23,6 +23,7 @@ tech. Contributions welcome! Create a PR or contact
   * Date announced in a [Facebook Post](https://www.facebook.com/harvardwecode/posts/642752059233551)
 * [WHACK](http://wellesleyhacks.org/) (Wellesley, MA) : February 11-12, 2017
 * [HackHERS](http://hackhers.us) (New Brunswick, NJ): February 18-19, 2017
+* [FemmeHacks](http://femmehacks.io/) (Philadelphia, PA): February 24-25, 2017
 * [WiCHacks](http://wic-hacks.rit.edu/) (Rochester, NY): February 25-26, 2017
 * [DiamondHacks(http://ncsudiamondhacks.com) (Raleigh, NC): February 25-26, 2017
 
