@@ -266,6 +266,10 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
       * [Facebook](https://www.facebook.com/WICATRIT)
       * [Twitter](https://twitter.com/RITWIC)
       * [Instagram](https://www.instagram.com/rit_wic/)
+      
+   * [WiC Allies](http://wic.rit.edu/pages/allies.php)
+   WiC Allies is a group of RIT and GCCIS community members committed to furthering the mission and goals of Women in Computing, for
+   the purpose of affecting positive change and fostering a more inclusive GCCIS culture.
 
 ### North Carolina
 
