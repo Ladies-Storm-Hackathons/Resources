@@ -165,6 +165,7 @@
 * [Learn to Code HTML & CSS by Shay Howe](http://learn.shayhowe.com/html-css/)  
   This guide offers a more in-depth introduction to HTML and CSS, including how
   to follow best practices.
+* [HTML and CSS intro from Interneting Is Hard](https://internetingishard.com/html-and-css/)
 * [CSS Diner](http://flukeout.github.io/)  
   A fantastic game that teaches you CSS selectors.
 * [Flexbox Froggy](http://flexboxfroggy.com/)  
@@ -221,4 +222,3 @@
   As the authors state, Haskell is not a difficult language to use. Haskell is
   difficult to teach effectively. This book makes learning Haskell a joy. The first
   chapter of the book is free, then the book is $59.
-
