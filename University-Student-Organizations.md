@@ -233,6 +233,11 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
       * [Facebook Page](https://www.facebook.com/cornellwomenincomnputing)
       * [Facebook Group for members and supporters](https://www.facebook.com/groups/wiccmembers/)
       * [Public resources from our workshops](http://wicc.acm.org/workshops.php)
+  * [Under-Represented Minorities in Computing @ Cornell (URMC)](http://urmc.cs.cornell.edu/)
+    URMC is the Under-Represented Minority in Computing organisation at Cornell. 
+    Currently, at Cornell only 6% of CS students are Hispanic and 1% are Black. 
+    We want to change this.
+      * [Facebook Group](https://www.facebook.com/groups/cornellurmc/)
 
 ##### Ithaca College
   * [Ithaca College Women In Computing (ICWC)](https://www.facebook.com/IthacaCollegeWomenInComputing/)  
@@ -242,7 +247,7 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
     a study group, work on scholarship projects, volunteer in teaching younger
     generations, and spread the word about more women getting involved in this
     field.
-      * Email: [wicc@cornell.edu](mailto:weareicwc@gmail.com)
+      * Email: [weareicwc@gmail.com](mailto:weareicwc@gmail.com)
       * [Facebook Page](https://www.facebook.com/IthacaCollegeWomenInComputing/)
       * [Twitter](https://twitter.com/WeAreICWC)
 
