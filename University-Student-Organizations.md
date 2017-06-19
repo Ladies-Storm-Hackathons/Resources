@@ -145,6 +145,7 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
 ##### Tufts University
   * WiCS
       * [Facebook Group](https://www.facebook.com/groups/221500931381460)
+      * [Website](http://wics.cs.tufts.edu/)
 
 ##### Wellesley College
   * CS Club
