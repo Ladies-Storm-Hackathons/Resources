@@ -126,4 +126,7 @@ Algorithms resources in the [Learning Resources file](Learning-Resources.md).
   So you've conquered the internship hurdle and are now at your first full-time
   tech job. It's normal to feel overwhelmed. Here's cheerful advice on how
   to get past those mental hurdles and get things done.
+  
+* [Cute & Classy Work Outfits](https://www.pinterest.com/alainakafkes/consolelogcute-classy-tech-outfits/)
+  Not sure what to wear on the job? Check out this Pinterest board to get inspired!
 
