@@ -375,6 +375,17 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
 
 ### Washington
 
+##### University of Washington
+* [UW Society of Women Engineers](http://uwswe.com/) <br>
+UW SWE seeks to motivate both women and men to achieve full potential in careers as engineers and leaders, expand the image of the engineering profession as a positive force in improving the quality of life and demonstrate the value of diversity.  We have over 500 members and host a variety of professional development, community outreach and leadership engagement workshops for our members.
+	* [Facebook](https://www.facebook.com/uwswe/)
+	* [Instagram](https://www.instagram.com/uwswe/)
+	* [Linkedin](https://www.linkedin.com/company-beta/10377287/)
+
+* [Association for Computing Machinery for Women](https://www.cs.washington.edu/acmw/) <br>
+The purpose of ACM-W is to cultivate a strong supportive community of women within the department of Computer Science & Engineering at UW, and facilitate dialog about shared experiences, to provide members with the resources they need to be academically, socially, and professionally successful, to promote the idea of a well-rounded student in CSE, both women and outside of the department of Computer Science & Engineering, and to demonstrate the importance and necessity of diversity in the computing world.
+	* [Facebook](https://www.facebook.com/uwacmw)
+
 ##### University of Washington Tacoma
   * [Women in Computing Science](https://students.washington.edu/wics)  
     WiCS seek to challenge biases and myths faced by women and other minorities
