@@ -42,8 +42,10 @@ tech. Contributions welcome! Create a PR or contact
 ## August 2017
 
 ## September 2017
+* [SisterHacks](http://sisterhacks.co/) (Bryn Mawr College): September 30-October 1
 
 ## October 2017
+* [SisterHacks](http://sisterhacks.co/) (Bryn Mawr College): September 30-October 1
 
 ## November 2017
 
