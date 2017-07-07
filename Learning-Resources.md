@@ -70,6 +70,8 @@
   A primer on machine learning for beginners, with helpful visualizations.
 * [Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)  
   Statistical Machine Learning course from Carnegie Mellon University. Assigments, solutions, and full lecture videos.  The course covers methodology and theoretical foundations.
+* [keon/algorithms](https://github.com/keon/algorithms)   
+  Open source GitHub repository with examples of data structures and algorithms in Python.
 
 ##### Complexity, Big-O Notation
 * [Lecture Notes - Jonathan Shewchuk](https://www.cs.berkeley.edu/~jrs/61b/lec/20)  
@@ -117,6 +119,10 @@
   An opinionated and thorough guide for getting started in Python.
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)  
   A thorough guide to Python, great for people who have never programmed before.
+* [Python Tutor](http://pythontutor.com/)   
+  Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code.
+* [PyMOTW 3](https://pymotw.com/3/)   
+  Python 3 Module of the Week is a series of free articles explaining, and giving examples of, how to use modules in the Python 3 standard library. 
 
 #### Ruby
 * [Try Ruby by Code School](http://tryruby.org/levels/1/challenges/0)  
