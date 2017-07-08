@@ -36,7 +36,7 @@ Storm Hackathons](https://github.com/Ladies-Storm-Hackathons)!
   can help you if you're feeling stuck.
 * [FreeCodeCamp](https://www.freecodecamp.com/)  
   Learn to code and help non-profits! Learn about HTML, CSS, JavaScript and more.
-* [Treehouse](https://teamtreehouse.com/)
+* [Treehouse](https://teamtreehouse.com/)  
   Learn Web Design, Coding & much more. This is not a free resource. If your
   local library participates in the Treehouse program, you can check out a license,
   just as you would physical media. If not, there is a monthly fee of $25 for the
@@ -44,7 +44,7 @@ Storm Hackathons](https://github.com/Ladies-Storm-Hackathons)!
   Learn from over 1000 videos created by expert teachers on web design, coding,
   business, and much more. The Treehouse library is continually refreshed with
   the latest on web technology so you'll never fall behind.
-* [Bento](https://bento.io/)
+* [Bento](https://bento.io/)  
   Learning tracks with websites and resources for web fundamentals, databases, and more
 
 ### Command Line
@@ -70,21 +70,24 @@ Storm Hackathons](https://github.com/Ladies-Storm-Hackathons)!
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html)  
   For the less visual learners, an online book explaining algorithms and data
   structures (uses Python).
-* [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+* [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)  
   A primer on machine learning for beginners, with helpful visualizations.
 * [Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)  
-  Statistical Machine Learning course from Carnegie Mellon University. Assigments, solutions, and full lecture videos.  The course covers methodology and theoretical foundations.
+  Statistical Machine Learning course from Carnegie Mellon University. Assignments,
+  solutions, and full lecture videos.  The course covers methodology and 
+  theoretical foundations.
 * [keon/algorithms](https://github.com/keon/algorithms)   
-  Open source GitHub repository with examples of data structures and algorithms in Python.  
-* [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads//) Useful for a quick refresher - if you were previously familiar with the concept.
+  Open source repository of examples of data structures & algorithms in Python.  
+* [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads//)  
+   Useful for a quick refresher - if you were previously familiar with the concept.
 
 ##### Complexity, Big-O Notation
 * [Lecture Notes - Jonathan Shewchuk](https://www.cs.berkeley.edu/~jrs/61b/lec/20)  
-  Notes containing simple explanations of Big-O and asymtotic analysis. Warnings
+  Notes containing simple explanations of Big-O and asymptotic analysis. Warnings
   and misconceptions section towards the bottom is pretty good too.
-* [Big O Lecture Notes - Jim Marshall](http://science.slc.edu/~jmarshall/courses/2002/spring/cs50/BigO/)
+* [Big O Lecture Notes - Jim Marshall](http://science.slc.edu/~jmarshall/courses/2002/spring/cs50/BigO/)  
   Tons of graphs for comparing running times.
-* [Big-O Cheat Sheet](http://www.bigocheatsheet.com)
+* [Big-O Cheat Sheet](http://www.bigocheatsheet.com)  
   Super helpful cheat sheet for common data structures.
 
 ### Git
@@ -93,7 +96,7 @@ Storm Hackathons](https://github.com/Ladies-Storm-Hackathons)!
 * [Github Git Cheatsheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
   (PDF) Helpful for those who haven't quite memorized the more frequently-used
   git commands.
-* [Atlassian's Git Tutorials](https://www.atlassian.com/git/tutorials)
+* [Atlassian's Git Tutorials](https://www.atlassian.com/git/tutorials) 
 * [first aid git](http://firstaidgit.io/#/)  
   A searchable collection of the most frequently asked Git questions
 * [Git Tips From The Trenches](https://ochronus.com/git-tips-from-the-trenches/)  
@@ -115,7 +118,7 @@ Storm Hackathons](https://github.com/Ladies-Storm-Hackathons)!
   Precise and nitpicky, but this is basically an official manual, so that's par
   for the course.
 * [Introduction to Git Commits](https://pcottle.github.io/learnGitBranching/)   
-  Step by Step interactive guide to learning how Github works and using Git commands.
+  Step by Step interactive guide to learning how GitHub works and using Git commands.
 
 ### Language-Specific
 
