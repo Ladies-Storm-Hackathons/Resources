@@ -1,6 +1,6 @@
 # Learning Resources
 
-> Click [here](../Resources#Resources) for more handy resources from [Ladies 
+> Click [here](/README.md) for more handy resources from [Ladies 
 Storm Hackathons](https://github.com/Ladies-Storm-Hackathons)!
 
 ### Table of Contents
@@ -8,11 +8,11 @@ Storm Hackathons](https://github.com/Ladies-Storm-Hackathons)!
 - [Command Line](#command-line)
 - [Algorithms](#algorithms)
     - [Complexity/Big-O Notation](#complexity-big-o-notation)
-- [Git](#Git)
-- [Languages](#languages)
+- [Git](#git)
+- [Languages](#languages-specific)
     - [Python](#python)
-    - [Ruby](#Ruby)
-    - [Go](#Go)
+    - [Ruby](#ruby)
+    - [Go](#go)
     - [Javascript](#javascript)
     - [ES6-Specific](#es6-specific)
     - [HTML/CSS](#htmlcss)
@@ -25,7 +25,7 @@ Storm Hackathons](https://github.com/Ladies-Storm-Hackathons)!
 - [Databases/SQL](#databasessql)
 - [Engineering](#engineering)
 - [Functional Programming](#functional-programming)
-- [Open Source: for New Contributors](#open-source)
+- [Open Source: for New Contributors](#open-source-for-new-contributors)
 
 ### Interactive Programming Tutorials
 * [NodeSchool](http://nodeschool.io/)  
@@ -240,6 +240,7 @@ Storm Hackathons](https://github.com/Ladies-Storm-Hackathons)!
 For understanding what makes a project open source.
 * [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)  
 Guide for making your first open source contribution.  
+* [Git resources](#git)
 * Finding your *first* project to contribute to:
   - [First Timers Only](http://www.firsttimersonly.com/)
   - [Up for Grabs](http://up-for-grabs.net/#/)

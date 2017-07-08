@@ -1,6 +1,6 @@
 # Hackathon Glossary
   
-> Click [here](../Resources#Resources) for more handy resources from [Ladies 
+> Click [here](/README.md) for more handy resources from [Ladies 
 Storm Hackathons](https://github.com/Ladies-Storm-Hackathons)!
   
 > *Don't see the term you were looking for?*   
