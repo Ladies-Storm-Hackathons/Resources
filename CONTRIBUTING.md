@@ -32,7 +32,7 @@ the same page.
 
 Note that links to headings need to include all words in the heading,
 separated by dashes. The letters in the words need to be *lowercase*. 
-Example, link to the *On Commit Message* heading:
+Example, link to the *On Commit Message* heading:  
 `[WhaTEveR yOu want the LINK to say!](#on-commit-messages)`.
 
 ## On Commit Messages
