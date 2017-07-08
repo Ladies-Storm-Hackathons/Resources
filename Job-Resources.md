@@ -35,7 +35,7 @@ Storm Hackathons](https://github.com/Ladies-Storm-Hackathons)!
 [Here](http://www.crackingthecodinginterview.com/resources.html) are other free resources from the author of *Cracking the Coding Interview*.  
 * [5 Ways to Get More Work + Skills Experience](http://www.geekgirlweb.com/blog/2015/7/9/5-ways-to-get-more-work-skills-experience)  
 * [How to come up with side project ideas](https://blog.producthunt.com/how-to-come-up-with-side-project-ideas-4a2c8049deba)  
-* Also see Open Source resources in the [Learning Resources file](/Learning-Resources.md/#open-source-for-new-contributors)  
+* Also see [Open Source](/Learning-Resources.md/#open-source-for-new-contributors) resources in the Learning Resources file
 
 ##### NOTE
 As soon as you're at this stage of getting a gig, go read the

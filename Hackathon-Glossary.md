@@ -12,7 +12,7 @@ which has info about formatting and the Code of Conduct!
 
 ## Terms
 
-[A](#a) • [D](#d) • [F](#f) • [H](#h) • [I](###i) • [L](#l) • [P](#p) • [S](#s)  • [T](#t)
+[A](#a) • [D](#d) • [F](#f) • [H](#h) • [I](#i) • [L](#l) • [P](#p) • [S](#s)  • [T](#t)
 
 ### A
 

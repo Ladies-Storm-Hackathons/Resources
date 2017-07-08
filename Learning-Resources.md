@@ -9,7 +9,7 @@ Storm Hackathons](https://github.com/Ladies-Storm-Hackathons)!
 - [Algorithms](#algorithms)
     - [Complexity/Big-O Notation](#complexity-big-o-notation)
 - [Git](#git)
-- [Languages](#languages-specific)
+- [Languages](#language-specific)
     - [Python](#python)
     - [Ruby](#ruby)
     - [Go](#go)
