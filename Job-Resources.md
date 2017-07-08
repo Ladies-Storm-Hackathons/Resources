@@ -1,5 +1,7 @@
 # Job Resources
 
+[TOC]
+
 ### Getting a Gig
 * [Cassidy Williams' Guide for Getting a Gig](https://github.com/cassidoo/getting-a-gig)  
   Oriented towards college students.
@@ -8,6 +10,15 @@
   companies are looking for, as well as a list of freshman-specific and
   freshman-friendly programs.
 * [How to cold-email a startup into giving you an internship](https://creator.wework.com/knowledge/get-startup-job-internship-cold-email/)  
+* [The Code2040 Fellows Program](http://www.code2040.org/)    
+  Career launching program for Black & Latinx engineering students.
+
+#### Resume Strengthening
+* [Cracking the Coding Resume](https://www.careercup.com/resume)    
+[Here](http://www.crackingthecodinginterview.com/resources.html) are other free resources from the author of *Cracking the Coding Interview*.  
+* [5 Ways to Get More Work + Skills Experience](http://www.geekgirlweb.com/blog/2015/7/9/5-ways-to-get-more-work-skills-experience)  
+* [How to come up with side project ideas](https://blog.producthunt.com/how-to-come-up-with-side-project-ideas-4a2c8049deba)  
+* Also see Open Source resources in the [Learning Resources file](Learning-Resources.md/#open-source)  
 
 ##### NOTE
 As soon as you're at this stage of getting a gig, go read the
@@ -19,7 +30,14 @@ which may be in your first conversation with a recruiter.
 * [Intern Supply](http://www.intern.supply/)
 * [Sudo Hoot Job Board](http://jobs.sudohoot.com/)  
 * [Tech Ladies Job Board](http://www.hiretechladies.com/browse-jobs)  
-* [Women Who Code Job Board](https://www.womenwhocode.com/jobs)  
+* [Women Who Code Job Board](https://www.womenwhocode.com/jobs) 
+* [include.io](https://include.io/about/)  
+Recruiting & mini-mentoring for diverse & non-traditional technical talent.
+* [Antia Borg Institute's Job Board](http://www.ventureloop.com/anitaborg/)
+* [Uncubed](https://uncubed.com/jobs)  
+  Startup Focused.
+* [AngelList](https://angel.co/)  
+  Startup Focused.
 
 ### Interviewing
 * [Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)  
