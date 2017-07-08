@@ -1,7 +1,23 @@
 # Job Resources
 
-[TOC]
+> Click [here](../Resources#Resources) for more handy resources from [Ladies 
+Storm Hackathons](https://github.com/Ladies-Storm-Hackathons)!
 
+### Table of Contents
+<!-- MarkdownTOC -->
+
+- [Getting a Gig](#getting-a-gig)
+  - [Resume Strengthening](#resume-strengthening)
+- [Opportunities](#opportunities)
+- [Interviewing](#interviewing)
+- [Negotiating](#negotiating)
+- [Data](#data)
+- [Picking an Offer](#picking-an-offer)
+- [Making the Most of Your New Job](#making-the-most-of-your-new-job)
+
+<!-- /MarkdownTOC -->
+
+<a name="getting-a-gig"></a>
 ### Getting a Gig
 * [Cassidy Williams' Guide for Getting a Gig](https://github.com/cassidoo/getting-a-gig)  
   Oriented towards college students.
@@ -13,6 +29,7 @@
 * [The Code2040 Fellows Program](http://www.code2040.org/)    
   Career launching program for Black & Latinx engineering students.
 
+<a name="resume-strengthening"></a>
 #### Resume Strengthening
 * [Cracking the Coding Resume](https://www.careercup.com/resume)    
 [Here](http://www.crackingthecodinginterview.com/resources.html) are other free resources from the author of *Cracking the Coding Interview*.  
@@ -26,6 +43,7 @@ As soon as you're at this stage of getting a gig, go read the
 Negotiation starts when you're asked for your previous and/or expected salary,
 which may be in your first conversation with a recruiter.
 
+<a name="opportunities"></a>
 ### Opportunities
 * [Intern Supply](http://www.intern.supply/)
 * [Sudo Hoot Job Board](http://jobs.sudohoot.com/)  
@@ -39,6 +57,7 @@ Recruiting & mini-mentoring for diverse & non-traditional technical talent.
 * [AngelList](https://angel.co/)  
   Startup Focused.
 
+<a name="interviewing"></a>
 ### Interviewing
 * [Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)  
   Google recruiter-recommended article on how to prepare (long-term) for
@@ -89,6 +108,7 @@ Recruiting & mini-mentoring for diverse & non-traditional technical talent.
 ##### See Also
 Algorithms resources in the [Learning Resources file](Learning-Resources.md).
 
+<a name="negotiating"></a>
 ### Negotiating
 * [15 Rules for Negotiating a Job Offer](https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer)  
   General negotiation overview - a good starter for anyone.
@@ -113,12 +133,14 @@ Algorithms resources in the [Learning Resources file](Learning-Resources.md).
   specific tactics for how to handle some of the toughest situations that
   inevitably come up during negotiation.
 
+<a name="data"></a>
 ### Data
 * [Anonymous Tech Pay Sheet](https://docs.google.com/spreadsheets/d/1WkwNK36FyUfrEFK1QjxVod83vJSnuqezeuYF8LkMSbo/edit#gid=1606337908)  
 * [H1B Salary Database](http://h1bdata.info)  
 * [Comparably](https://www.comparably.com/)  
 * [PayScale](http://www.payscale.com/)  
 
+<a name="picking-an-offer"></a>
 ### Picking an Offer
 * [80,000 Hours' Make a Decision Tool](https://80000hours.org/career-decision/)          
   This is a decision-making tool which prompts you with reflective questions to
@@ -137,6 +159,7 @@ Algorithms resources in the [Learning Resources file](Learning-Resources.md).
   all). Learn about how start-up options work, and the surprising/disastrous
   effects that venture capitalists' terms can have on your own end payout.
 
+<a name="making-the-most-of-your-new-job"></a>
 ### Making the Most of Your New Job
 * [How to succeed at your software engineering internship](http://www.byte-by-byte.com/software-engineering-internship-success/)                   
   Congrats on the internship! Now learn how to make the most of it.
