@@ -1,5 +1,8 @@
 # Learning Resources
 
+> Click [here](../Resources#Resources) for more handy resources from [Ladies 
+Storm Hackathons](https://github.com/Ladies-Storm-Hackathons)!
+
 ### Table of Contents
 - [Interactive Programming Tutorials](#interactive-programming-tutorials)
 - [Command Line](#command-line)

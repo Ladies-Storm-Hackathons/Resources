@@ -1,7 +1,7 @@
 # Hackathon Glossary
   
 > Click [here](../Resources#Resources) for more handy resources from [Ladies 
-Storm Hackathons](https://www.facebook.com/groups/LadiesStormHackathons/)!
+Storm Hackathons](https://github.com/Ladies-Storm-Hackathons)!
   
 > *Don't see the term you were looking for?*   
 > Checkout the [additional resource links](#additional-resources) at the bottom of this page.
