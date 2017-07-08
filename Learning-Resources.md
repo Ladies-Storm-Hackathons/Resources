@@ -22,6 +22,7 @@
 - [Databases/SQL](#databasessql)
 - [Engineering](#engineering)
 - [Functional Programming](#functional-programming)
+- [Open Source: for New Contributors](#open-source)
 
 ### Interactive Programming Tutorials
 * [NodeSchool](http://nodeschool.io/)  
@@ -71,7 +72,8 @@
 * [Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)  
   Statistical Machine Learning course from Carnegie Mellon University. Assigments, solutions, and full lecture videos.  The course covers methodology and theoretical foundations.
 * [keon/algorithms](https://github.com/keon/algorithms)   
-  Open source GitHub repository with examples of data structures and algorithms in Python.
+  Open source GitHub repository with examples of data structures and algorithms in Python.  
+* [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads//) Useful for a quick refresher - if you were previously familiar with the concept.
 
 ##### Complexity, Big-O Notation
 * [Lecture Notes - Jonathan Shewchuk](https://www.cs.berkeley.edu/~jrs/61b/lec/20)  
@@ -228,3 +230,19 @@
   As the authors state, Haskell is not a difficult language to use. Haskell is
   difficult to teach effectively. This book makes learning Haskell a joy. The first
   chapter of the book is free, then the book is $59.
+
+  
+### Open Source: for New Contributors  
+* [What Is Open Source?](https://opensource.com/resources/what-open-source)  
+For understanding what makes a project open source.
+* [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)  
+Guide for making your first open source contribution.  
+* Finding your *first* project to contribute to:
+  - [First Timers Only](http://www.firsttimersonly.com/)
+  - [Up for Grabs](http://up-for-grabs.net/#/)
+  - [Open Hatch](https://openhatch.org/search/)
+* Finding projects later on:
+  - [Code Triage](https://www.codetriage.com/)
+  - [24 Pull Requests](https://24pullrequests.com/projects)
+  - [issuehub.io](http://issuehub.io/)
+  Focuses on *issues*, not projects.
