@@ -25,7 +25,6 @@ tech. Contributions welcome! Create a PR or contact
 * [HackHERS](http://hackhers.us) (New Brunswick, NJ): February 18-19, 2017
 * [FemmeHacks](http://femmehacks.io/) (Philadelphia, PA): February 24-25, 2017
 * [WiCHacks](http://wic-hacks.rit.edu/) (Rochester, NY): February 25-26, 2017
-* [DiamondHacks(http://ncsudiamondhacks.com) (Raleigh, NC): February 25-26, 2017
 
 ## March 2017
 
@@ -43,9 +42,11 @@ tech. Contributions welcome! Create a PR or contact
 
 ## September 2017
 * [SisterHacks](http://sisterhacks.co/) (Bryn Mawr College): September 30-October 1
+* [DiamondHacks](https://www.ncsudiamondhacks.com/) (NC State University): September 30-October 1
 
 ## October 2017
 * [SisterHacks](http://sisterhacks.co/) (Bryn Mawr College): September 30-October 1
+* [DiamondHacks](https://www.ncsudiamondhacks.com/) (NC State University): September 30-October 1
 
 ## November 2017
 
