@@ -21,6 +21,7 @@ Happy reading, fam.
 - Smith, Zadie: *White Teeth*
 - Wheeler, Tarah: *Women In Tech*
 - Yanahigara, Hanya: *A Little Life*
+- Mahmoody, Betty: * Not Without My Daughter *
 
 ## Contributing :new:
 Thanks for wanting to share your favorite books with LSH! You can either contribute by (1) [contacting @alainakafkes](http://www.twitter.com/alainakafkes) or (2) creating a pull request.
