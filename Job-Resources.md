@@ -118,6 +118,12 @@ Algorithms resources in the [Learning Resources file](Learning-Resources.md).
 * [The Negotiator](https://medium.com/ladies-storm-hackathons/the-negotiator-e259da8fb7d1#.za5n72ag9)  
   This is a great negotiation overview targeted to women from LSH member
   Anastasia.
+* [How to answer "What's your expected salary?"](https://fearlesssalarynegotiation.com/the-dreaded-salary-question/)
+  Not giving an answer to this question sets you up for success,
+  and here's how to do so.
+* [How to counter-offer (negotiation script)](https://fearlesssalarynegotiation.com/salary-negotiation-script/)
+  How much should you ask for in advance? Here's a calculator
+  and script to guide you through the process.
 * [Bullish: How To Ask For More Money, Part I](http://www.thegrindstone.com/2012/05/04/career-management/bullish-how-to-ask-for-more-money-part-i-107/) &
   [Part II](http://www.thegrindstone.com/2012/05/11/career-management/bullish-how-to-ask-for-more-money-part-ii-757/)  
   (Linked to in _The Negotiator_.) Drums up the mindset, specifically for women,
