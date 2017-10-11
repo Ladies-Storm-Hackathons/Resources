@@ -53,3 +53,6 @@ tech. Contributions welcome! Create a PR or contact
 ## November 2017
 
 ## December 2017
+
+## January 2018
+* [PixelHacks](http://pixelhacks.com) (High School Only): January 27-28
