@@ -22,6 +22,8 @@ Happy reading, fam.
 - Wheeler, Tarah: *Women In Tech*
 - Yanahigara, Hanya: *A Little Life*
 - Mahmoody, Betty: * Not Without My Daughter *
+- Kiyosaki, Robert: Rich Dad Poor Dad 
+- Kalam, APJ Abdul: Ignited Minds 
 
 ## Contributing :new:
 Thanks for wanting to share your favorite books with LSH! You can either contribute by (1) [contacting @alainakafkes](http://www.twitter.com/alainakafkes) or (2) creating a pull request.
