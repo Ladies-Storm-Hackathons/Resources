@@ -130,7 +130,9 @@ Storm Hackathons](https://github.com/Ladies-Storm-Hackathons)!
 * [Python Tutor](http://pythontutor.com/)   
   Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code.
 * [PyMOTW 3](https://pymotw.com/3/)   
-  Python 3 Module of the Week is a series of free articles explaining, and giving examples of, how to use modules in the Python 3 standard library. 
+  Python 3 Module of the Week is a series of free articles explaining, and giving examples of, how to use modules in the Python 3 standard library.  
+* [Python Challenge](http://www.pythonchallenge.com/)  
+  A series of riddles that utilize your knowledge of Python programming.  
 
 #### Ruby
 * [Try Ruby by Code School](http://tryruby.org/levels/1/challenges/0)  
@@ -236,6 +238,10 @@ Storm Hackathons](https://github.com/Ladies-Storm-Hackathons)!
   As the authors state, Haskell is not a difficult language to use. Haskell is
   difficult to teach effectively. This book makes learning Haskell a joy. The first
   chapter of the book is free, then the book is $59.
+  
+* [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
+  This book presents Haskell to you a fun and interesting way. The book is free to read online
+  and can be purchased in print for $44.95.  
 
   
 ### Open Source: for New Contributors  
