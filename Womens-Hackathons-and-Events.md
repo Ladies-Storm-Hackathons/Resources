@@ -52,6 +52,7 @@ tech. Contributions welcome! Create a PR or contact
 * [Hack the Patriarchy](http://www.hackthepatriarchy.com/) (San Jose, CA): October 21-22
 
 ## November 2017
+* [Technica](http://gotechnica.org/) (University of Maryland): November 4th - 5th
 
 ## December 2017
 
