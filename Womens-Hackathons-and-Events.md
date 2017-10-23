@@ -50,6 +50,7 @@ tech. Contributions welcome! Create a PR or contact
 * [WWCode Atlanta Hackathon](https://www.eventbrite.com/e/wwcode-atlanta-hackathon-tickets-36724739685) (Atlanta, GA):October 13
 * [Women Who Code Silicon Valley Hackathon 2017](https://www.eventbrite.com/e/women-who-code-silicon-valley-hackathon-2017-tickets-37983282019) (San Jose, CA): October 21
 * [Hack the Patriarchy](http://www.hackthepatriarchy.com/) (San Jose, CA): October 21-22
+* [Write/Speak/Code NYC](https://www.meetup.com/Write-Speak-Code-NYC/) (Hoboken, NJ):October 25
 
 ## November 2017
 
