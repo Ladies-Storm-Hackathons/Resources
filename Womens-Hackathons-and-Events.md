@@ -53,6 +53,7 @@ tech. Contributions welcome! Create a PR or contact
 * [Write/Speak/Code NYC](https://www.meetup.com/Write-Speak-Code-NYC/) (Hoboken, NJ):October 25
 
 ## November 2017
+* [Technica](http://gotechnica.org/) (University of Maryland): November 4th - 5th
 
 ## December 2017
 
