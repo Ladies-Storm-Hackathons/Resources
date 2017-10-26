@@ -16,12 +16,13 @@ Happy reading, fam.
 - Mukherjee, Siddhartha: *The Emperor of All Maladies*
 - Murakami, Haruki: *The Wind-Up Bird Chronicle*
 - O'Hara, Frank: *Meditations in an Emergency*
+- O'Neil, Cathy: *Weapons of Math Destruction*
 - Roy, Arundhati: *The God of Small Things*
 - Singh, Simon: *The Code Book*
 - Smith, Zadie: *White Teeth*
 - Wheeler, Tarah: *Women In Tech*
 - Yanahigara, Hanya: *A Little Life*
-- Mahmoody, Betty: * Not Without My Daughter *
+- Mahmoody, Betty: *Not Without My Daughter*
 - Kiyosaki, Robert: Rich Dad Poor Dad 
 - Kalam, APJ Abdul: Ignited Minds 
 
