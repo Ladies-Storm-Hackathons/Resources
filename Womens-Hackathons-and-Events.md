@@ -59,3 +59,4 @@ tech. Contributions welcome! Create a PR or contact
 
 ## January 2018
 * [PixelHacks](http://pixelhacks.com) (High School Only): January 27-28
+* [SheHacks](http://shehacks.io) (Boston University): January 26-28
