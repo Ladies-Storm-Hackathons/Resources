@@ -12,7 +12,7 @@ which has info about formatting and the Code of Conduct!
 
 ## Terms
 
-[A](#a) • [D](#d) • [F](#f) • [H](#h) • [I](#i) • [L](#l) • [P](#p) • [S](#s)  • [T](#t)
+[A](#a) • [D](#d) • [F](#f) • [H](#h) • [I](#i) • [L](#l) • [M](#m) • [P](#p) • [S](#s)  • [T](#t)
 
 ### A
 
@@ -54,7 +54,7 @@ excited about it.
 ### F
 
 #### Framework
-  
+A standard structure of an application.
     
 ### H
 
@@ -71,7 +71,13 @@ See [**Protocol**](#protocol)
 ### L
 
 #### Library
-  
+
+
+### M
+
+#### MVP
+MVP stands for Minimum Viable Product - one with just enough features to satisfy early customers, and to provide feedback for future product development.
+    
     
 ### P
 
