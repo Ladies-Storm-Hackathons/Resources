@@ -1,7 +1,6 @@
 # Job Resources
 
-> Click [here](/README.md) for more handy resources from [Ladies 
-Storm Hackathons](https://github.com/Ladies-Storm-Hackathons)!
+> Click [here](/README.md) for more handy resources from [Ladies Storm Hackathons](https://github.com/Ladies-Storm-Hackathons)!
 
 ### Table of Contents
 <!-- MarkdownTOC -->
@@ -35,7 +34,7 @@ Storm Hackathons](https://github.com/Ladies-Storm-Hackathons)!
  More free resources from the author of *Cracking the Coding Interview*: [link](http://www.crackingthecodinginterview.com/resources.html)  
 * [5 Ways to Get More Work + Skills Experience](http://www.geekgirlweb.com/blog/2015/7/9/5-ways-to-get-more-work-skills-experience)  
 * [How to come up with side project ideas](https://blog.producthunt.com/how-to-come-up-with-side-project-ideas-4a2c8049deba)  
-* Also see [Open Source](/Learning-Resources.md/#open-source-for-new-contributors) 
+* Also see [Open Source](/Learning-Resources.md/#open-source-for-new-contributors)
 resources in the Learning Resources file
 
 ##### NOTE
@@ -49,7 +48,7 @@ which may be in your first conversation with a recruiter.
 * [Intern Supply](http://www.intern.supply/)
 * [Sudo Hoot Job Board](http://jobs.sudohoot.com/)  
 * [Tech Ladies Job Board](http://www.hiretechladies.com/browse-jobs)  
-* [Women Who Code Job Board](https://www.womenwhocode.com/jobs) 
+* [Women Who Code Job Board](https://www.womenwhocode.com/jobs)
 * [include.io](https://include.io/about/)  
 Recruiting & mini-mentoring for diverse & non-traditional technical talent.
 * [Antia Borg Institute's Job Board](http://www.ventureloop.com/anitaborg/)
@@ -60,6 +59,7 @@ Recruiting & mini-mentoring for diverse & non-traditional technical talent.
 
 <a name="interviewing"></a>
 ### Interviewing
+* [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 * [Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)  
   Google recruiter-recommended article on how to prepare (long-term) for
   algorithms interviews.
@@ -174,7 +174,5 @@ Algorithms resources in the [Learning Resources file](Learning-Resources.md).
   So you've conquered the internship hurdle and are now at your first full-time
   tech job. It's normal to feel overwhelmed. Here's cheerful advice on how
   to get past those mental hurdles and get things done.
-  
 * [Cute & Classy Work Outfits](https://www.pinterest.com/alainakafkes/consolelogcute-classy-tech-outfits/)
   Not sure what to wear on the job? Check out this Pinterest board to get inspired!
-
