@@ -386,12 +386,11 @@ UW SWE seeks to motivate both women and men to achieve full potential in careers
 The purpose of ACM-W is to cultivate a strong supportive community of women within the department of Computer Science & Engineering at UW, and facilitate dialog about shared experiences, to provide members with the resources they need to be academically, socially, and professionally successful, to promote the idea of a well-rounded student in CSE, both women and outside of the department of Computer Science & Engineering, and to demonstrate the importance and necessity of diversity in the computing world.
 	* [Facebook](https://www.facebook.com/uwacmw)
 
-* [Women in Informatics](winfouw.com)
+* [Women in Informatics](winfouw.com) <br>
 WINFO seeks to create a community of women leaders in technology within the undergraduate Informatics program at the UW Information School. We empower women to thrive as producers of technology by establishing and maintaining a network of women that offer encouragement and support. Our events are open to students from all majors and genders. Signature events we organize include our annual hackathon, company tours, career panels, and social events. 
-
-* [Facebook Page](https://www.facebook.com/winfouw/)
-* [Facebook Group](https://www.facebook.com/groups/winfouw/)
-* [Twitter](https://twitter.com/WinfoUW)
+  * [Facebook Page](https://www.facebook.com/winfouw/)
+  * [Facebook Group](https://www.facebook.com/groups/winfouw/)
+  * [Twitter](https://twitter.com/WinfoUW)
 
 ##### University of Washington Tacoma
   * [Women in Computing Science](https://students.washington.edu/wics)  
