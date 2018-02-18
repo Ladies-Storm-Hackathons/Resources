@@ -10,6 +10,7 @@ tech. Contributions welcome! Create a PR or contact
 * [Front End Lab](http://www.meetup.com/Women-Who-Code-DC/events/ldwhzlywcbmb/) w/ Women Who Code (Washington, DC): Jan. 9, 2017
 * [Android Lab](http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlywcbnb/) w/ Women Who Code (Washington, DC): Jan. 10, 2017
 * [Ruby On Rails](http://www.meetup.com/Women-Who-Code-DC/events/bmvvbmywcbpb/) w/ Women Who Code (Washington, DC): Jan. 11, 2017
+* [WINFO's 6th Annual Hackathon](https://www.facebook.com/events/1595090867204133/) (University of Washington, WA): Jan. 13, 2017
 * [Front End Lab](http://www.meetup.com/Women-Who-Code-DC/events/rzpmrlywcbvb/) w/ Women Who Code (Washington, DC): Jan. 16, 2017
 * [Android Lab](http://www.meetup.com/Women-Who-Code-DC/events/pjkzrlywcbwb/) w/ Women Who Code (Washington, DC): Jan. 17, 2017
 * [Ruby On Rails](http://www.meetup.com/Women-Who-Code-DC/events/bmvvbmywcbxb/) w/ Women Who Code (Washington, DC): Jan. 18, 2017
