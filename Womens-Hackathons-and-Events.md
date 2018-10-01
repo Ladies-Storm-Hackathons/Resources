@@ -61,3 +61,9 @@ tech. Contributions welcome! Create a PR or contact
 ## January 2018
 * [PixelHacks](http://pixelhacks.com) (High School Only): January 27-28
 * [SheHacks](http://shehacks.io) (Boston University): January 26-28
+
+## November 2018
+* [Technica](https://gotechnica.org/) (University of Maryland): November 10-11
+
+## February 2019
+* [SisterHacks](http://sisterhacks.co/) (Bryn Mawr College): February 23-24
