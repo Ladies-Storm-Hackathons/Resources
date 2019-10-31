@@ -15,3 +15,7 @@ tech. Contributions welcome! Create a PR or contact
 
 ## February 2019
 * [SisterHacks](http://sisterhacks.co/) (Bryn Mawr College): February 23-24
+
+## November 2019
+
+[She's Coding (Amsterdam) Winter Code-a-thon](https://www.meetup.com/shescoding-amsterdam/events/265645848/) (Codaisseur Academy): November 2-January (TBD)
